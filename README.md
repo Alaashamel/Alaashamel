@@ -1,7 +1,9 @@
 <!-- 🔥 Ultimate Animated Header for Alaa Shamel -->
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF0055&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Alaa+Shamel;🎓+Data+Scientist+%7C+AI+Engineer;💻+Full-Stack+MERN+%26+Flutter+Developer;🚀+Turning+Ideas+Into+Intelligent+Products" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=FF0055&center=true&vCenter=true&repeat=true&width=700&height=60&lines=%F0%9F%91%8B+Hi%2C+I%27m+Alaa+Shamel;%F0%9F%8E%93+Data+Scientist+%7C+AI+Engineer;%F0%9F%92%BB+Full-Stack+MERN+%26+Flutter+Developer;%F0%9F%9A%80+Turning+Ideas+Into+Intelligent+Products"
+    alt="Typing animation"
+  />
 </h1>
 
 <p align="center">
