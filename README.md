@@ -1,21 +1,21 @@
-<!-- 🔥 Ultimate Animated Header for Alaa Shamel -->
+<!-- 🔥 Professional README Header for Alaa Shamel -->
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=FF0055&center=true&vCenter=true&repeat=true&width=700&height=60&lines=%F0%9F%91%8B+Hi%2C+I%27m+Alaa+Shamel;%F0%9F%8E%93+Data+Scientist+%7C+AI+Engineer;%F0%9F%92%BB+Full-Stack+Developer;%F0%9F%9A%80+Turning+Ideas+Into+Intelligent+Products"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1000&color=FF0055&center=true&vCenter=true&repeat=true&width=720&height=60&lines=%F0%9F%91%8B+Hi,+I%27m+Alaa+Shamel;%F0%9F%8E%93+Data+Scientist;%F0%9F%92%BB+Full-Stack+Developer;+Turning+Ideas+Into+Intelligent+Products"
     alt="Typing animation"
   />
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" height="150">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" height="150" alt="Animated GIF">
 </p>
 
 <p align="center">
   <a href="https://github.com/Alaashamel">
-    <img src="https://img.shields.io/badge/Alaa%20Shamel-%23ff0055.svg?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-%23FF0055?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/alaa-shamel-a0392b2a6">
-    <img src="https://img.shields.io/badge/Data%20Scientist%20%7C%20AI%20Engineer-%2300C49A.svg?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%2300C49A?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
@@ -27,21 +27,21 @@
 
 ## 🧭 About Me
 💡 Passionate **Data Scientist** & **Full-Stack Developer** from **Giza, Egypt (20 years old)**  
-🎓 Graduate of **NTI** & **ITI**, specialized in **AI, Data Science, and Software Engineering**  
+🎓 Graduate of **NTI** & **ITI**, specialized in **AI, Data Science & Software Engineering**  
 🌱 Focused on **Deep Learning**, **Data Engineering**, and **Web Applications**  
-⚡ Love blending **AI + Web** into seamless user experiences  
+⚡ Love blending **AI + Web** into seamless, intelligent experiences  
 
 ---
 
 ## ⚡ Tech Universe
 
-### 🤖 Artificial Intelligence & Data Science
+### 🤖 AI & Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
 
-### 💻 Full-Stack Web Development (MERN)
+### 💻 Full-Stack Web (MERN)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
@@ -55,16 +55,16 @@
 | 🏦 **Bank Management System** | Secure banking app with transactions, analytics & JWT Auth | MERN, Chart.js |
 | 🛍️ **E-Commerce Platform** | Online store with payments & admin panel | MERN, Stripe API |
 | 🎓 **E-Learning Platform** | Interactive education portal with courses & videos | MERN, WebSockets |
-| 💬 **Social Media App** | Facebook-style app with chat, posts, and comments | MERN, Socket.io |
-| 🎵 **Music Streaming App** | Spotify-like music player with playlists | React, Spotify API |
+| 💬 **Social Media App** | Chat, posts, and comments similar to Facebook | MERN, Socket.io |
+| 🎵 **Music Streaming App** | Spotify-like player with playlists | React, Spotify API |
 | 🤖 **AI Chatbot Assistant** | NLP-powered chatbot API | Python, TensorFlow, Flask |
 
 ---
 
 ## 🎯 Currently Exploring
 - 🧠 Deep Learning Architectures  
-- 📊 Data Pipelines & Cloud Data Engineering  
-- 🤖 LLMs & Generative AI Integration  
+- 📊 Cloud Data Engineering & Pipelines  
+- 🤖 LLMs & Generative AI  
 - ⚡ Web App Optimization & CI/CD  
 
 ---
@@ -83,16 +83,10 @@
 
 ## 📈 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alaashamel&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaashamel&layout=compact&theme=tokyonight" height="165">
+<img src="https://github-readme-stats.zcy.dev/api?username=Alaashamel&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="165">
 </p>
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Alaashamel&theme=matrix&no-frame=true&margin-w=5">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alaashamel&theme=react-dark">
+<img src="https://img.shields.io/github/followers/Alaashamel?label=Followers&style=social" alt="Followers">
 </p>
 
 ---
@@ -106,10 +100,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://nti-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-%230077B5?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://github.com/Alaashamel">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
