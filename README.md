@@ -1,7 +1,7 @@
 <!-- 🔥 Ultimate Animated Header for Alaa Shamel -->
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=FF0055&center=true&vCenter=true&repeat=true&width=700&height=60&lines=%F0%9F%91%8B+Hi%2C+I%27m+Alaa+Shamel;%F0%9F%8E%93+Data+Scientist+%7C+AI+Engineer;%F0%9F%92%BB+Full-Stack+MERN+%26+Flutter+Developer;%F0%9F%9A%80+Turning+Ideas+Into+Intelligent+Products"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=FF0055&center=true&vCenter=true&repeat=true&width=700&height=60&lines=%F0%9F%91%8B+Hi%2C+I%27m+Alaa+Shamel;%F0%9F%8E%93+Data+Scientist+%7C+AI+Engineer;%F0%9F%92%BB+Full-Stack+Developer;%F0%9F%9A%80+Turning+Ideas+Into+Intelligent+Products"
     alt="Typing animation"
   />
 </h1>
@@ -28,8 +28,8 @@
 ## 🧭 About Me
 💡 Passionate **Data Scientist** & **Full-Stack Developer** from **Giza, Egypt (20 years old)**  
 🎓 Graduate of **NTI** & **ITI**, specialized in **AI, Data Science, and Software Engineering**  
-🌱 Focused on **Deep Learning**, **Data Engineering**, and **Cross-Platform Apps** with Flutter  
-⚡ Love blending **AI + Web + Mobile** into seamless user experiences  
+🌱 Focused on **Deep Learning**, **Data Engineering**, and **Web Applications**  
+⚡ Love blending **AI + Web** into seamless user experiences  
 
 ---
 
@@ -47,23 +47,16 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-### 📱 Mobile App Development (Flutter)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-![Bloc](https://img.shields.io/badge/Bloc-0175C2?logo=flutter&logoColor=white)
-
 ---
 
 ## 🚀 Featured Projects
-| 🚀 Project | 🧠 Description | ⚙️ Tech |
+| Project | Description | Tech |
 |------------|----------------|---------|
 | 🏦 **Bank Management System** | Secure banking app with transactions, analytics & JWT Auth | MERN, Chart.js |
 | 🛍️ **E-Commerce Platform** | Online store with payments & admin panel | MERN, Stripe API |
 | 🎓 **E-Learning Platform** | Interactive education portal with courses & videos | MERN, WebSockets |
 | 💬 **Social Media App** | Facebook-style app with chat, posts, and comments | MERN, Socket.io |
 | 🎵 **Music Streaming App** | Spotify-like music player with playlists | React, Spotify API |
-| 📱 **Task Manager App** | Flutter mobile app for task organization | Flutter, Firebase |
-| 💰 **Expense Tracker** | Smart finance tracker with AI insights | Flutter, SQLite |
 | 🤖 **AI Chatbot Assistant** | NLP-powered chatbot API | Python, TensorFlow, Flask |
 
 ---
@@ -71,8 +64,8 @@
 ## 🎯 Currently Exploring
 - 🧠 Deep Learning Architectures  
 - 📊 Data Pipelines & Cloud Data Engineering  
-- 📱 Mobile App Deployment (CI/CD)  
 - 🤖 LLMs & Generative AI Integration  
+- ⚡ Web App Optimization & CI/CD  
 
 ---
 
