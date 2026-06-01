@@ -1,22 +1,33 @@
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=900&color=00C2FF&center=true&vCenter=true&repeat=true&width=900&height=70&lines=%F0%9F%91%8B+Hi,+I'm+Alaa+Shamel;%F0%9F%92%BB+Full-Stack+Developer;%F0%9F%A4%96+AI+%26+Machine+Learning+Enthusiast;%E2%9A%A1+Building+Intelligent+Web+Applications;%F0%9F%9A%80+Turning+Ideas+Into+Real+Products"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=2400&pause=900&color=00C2FF&center=true&vCenter=true&repeat=true&width=950&height=75&lines=%F0%9F%91%8B+Hi,+I'm+Alaa+Shamel;%F0%9F%92%BB+Full-Stack+Developer;%F0%9F%A4%96+AI+%26+Machine+Learning+Enthusiast;%E2%9A%A1+Building+Intelligent+Web+Applications;%F0%9F%9A%80+Turning+Ideas+Into+Real+Products"
     alt="Typing SVG"
   />
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="260" height="170" alt="Coding Animation">
+  <img
+    src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"
+    width="320"
+    height="190"
+    alt="Coding Animation"
+  />
 </p>
 
-<p align="center">
-  <b>Full-Stack Developer | AI/ML Enthusiast | Building Intelligent Web Applications</b>
-</p>
+<h3 align="center">
+  Full-Stack Developer | AI/ML Enthusiast | Building Intelligent Web Applications
+</h3>
 
 <p align="center">
   <em>
-    I build modern full-stack applications and integrate AI/ML solutions to create useful, scalable, and intelligent digital products.
+    I create modern full-stack applications powered by clean code, scalable back-end systems, and smart AI/ML solutions.
   </em>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Alaashamel&label=Profile%20Views&color=00C2FF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Alaashamel?label=Followers&style=for-the-badge&color=00C2FF&labelColor=111111" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/Alaashamel?label=Stars&style=for-the-badge&color=00C2FF&labelColor=111111" alt="GitHub Stars" />
 </p>
 
 <p align="center">
@@ -36,113 +47,285 @@
 
 ---
 
+
+---
+
 ## 👨‍💻 About Me
 
-I’m **Alaa Shamel**, a passionate **Full-Stack Developer** and **AI/ML Enthusiast** from **Giza, Egypt**.
+<table>
+  <tr>
+    <td width="65%">
+      <h3>Hi, I'm Alaa Shamel 👋</h3>
+      <p>
+        I'm a passionate <b>Full-Stack Developer</b> and <b>AI/ML Enthusiast</b> from <b>Giza, Egypt</b>.
+      </p>
+      <p>
+        I focus on building modern, scalable web applications with clean user interfaces, secure back-end systems, strong APIs, and intelligent AI-powered features.
+      </p>
+      <p>
+        My goal is to combine <b>Software Engineering</b> with <b>Artificial Intelligence</b> to create real-world digital products that are useful, smart, and production-ready.
+      </p>
+    </td>
+    <td width="35%" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Coding GIF" />
+    </td>
+  </tr>
+</table>
 
-I enjoy building complete web applications with clean interfaces, strong back-end logic, secure APIs, and smart AI-powered features.
-My main focus is combining **software engineering** with **artificial intelligence** to build practical, real-world products.
+---
 
-* 💻 Building modern full-stack web applications
-* 🤖 Exploring AI, Machine Learning, Deep Learning, and Computer Vision
-* ⚙️ Interested in clean code, APIs, databases, authentication, and scalable systems
-* 🚀 Always improving through real projects and hands-on problem solving
-* 🎯 Goal: becoming a strong **AI-Powered Full-Stack Engineer**
+## 🚀 What I Do
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>💻 Full-Stack Apps</h3>
+      <p>
+        Building complete web applications using React, Next.js, Node.js, Express, APIs, authentication, dashboards, and databases.
+      </p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🤖 AI/ML Solutions</h3>
+      <p>
+        Working with machine learning, deep learning, computer vision, NLP, and AI-powered systems that solve practical problems.
+      </p>
+    </td>
+    <td align="center" width="33%">
+      <h3>⚙️ Real Products</h3>
+      <p>
+        Turning ideas into clean, usable, and scalable products with professional UI, strong logic, and real-world features.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Front-End
+<h3 align="center">💻 Front-End Development</h3>
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
 </p>
 
-### Back-End
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-FF6F00?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+<p align="center">
+  <b>HTML5</b> • <b>CSS3</b> • <b>JavaScript</b> • <b>TypeScript</b> • <b>React</b> • <b>Next.js</b> • <b>Tailwind CSS</b> • <b>Bootstrap</b>
 </p>
 
-### Databases
+<br/>
 
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+<h3 align="center">⚙️ Back-End Development</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,npm,postman" />
 </p>
 
-### AI / Machine Learning
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+<p align="center">
+  <b>Node.js</b> • <b>Express.js</b> • <b>REST APIs</b> • <b>JWT Authentication</b> • <b>API Integration</b> • <b>Postman</b>
 </p>
 
-### Tools
+<br/>
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<h3 align="center">🗄️ Databases</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+</p>
+
+<p align="center">
+  <b>MongoDB</b> • <b>MySQL</b> • <b>PostgreSQL</b> • <b>Database Design</b> • <b>CRUD Operations</b>
+</p>
+
+<br/>
+
+<h3 align="center">🤖 AI / Machine Learning</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>Python</b> • <b>Machine Learning</b> • <b>Deep Learning</b> • <b>Computer Vision</b> • <b>NLP</b> • <b>TensorFlow</b> • <b>OpenCV</b>
+</p>
+
+<br/>
+
+<h3 align="center">🧰 Tools & Platforms</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,docker" />
+</p>
+
+<p align="center">
+  <b>Git</b> • <b>GitHub</b> • <b>VS Code</b> • <b>Vercel</b> • <b>Docker</b> • <b>Deployment</b>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project                    | Description                                                                                                  | Tech Stack                      |
-| -------------------------- | ------------------------------------------------------------------------------------------------------------ | ------------------------------- |
-| **CV Analyzer Platform**   | AI-powered platform that analyzes CVs, extracts skills, gives ATS-style feedback, and improves job matching. | React, TypeScript, Node.js, AI  |
-| **Bank Management System** | Secure banking web app with authentication, transactions, dashboards, analytics, and admin controls.         | MERN, JWT, Chart.js             |
-| **E-Commerce Platform**    | Online store with product management, cart, authentication, orders, payments, and admin dashboard.           | React, Node.js, MongoDB, Stripe |
-| **E-Learning Platform**    | Education platform with courses, videos, user roles, progress tracking, and interactive learning features.   | MERN, WebSockets                |
-| **Social Media Web App**   | Social platform with posts, comments, likes, profiles, and real-time chat.                                   | MERN, Socket.io                 |
-| **AI Chatbot Assistant**   | NLP-based chatbot system that understands user input and returns intelligent responses.                      | Python, TensorFlow, Flask       |
-| **Car Accident AI System** | AI pipeline for car damage detection, severity prediction, and repair cost estimation.                       | Python, YOLO, CNN, XGBoost      |
+<table>
+  <tr>
+    <td width="50%">
+      <h3>📄 CV Analyzer Platform</h3>
+      <p>
+        AI-powered platform that analyzes CVs, extracts skills, gives ATS-style feedback, and helps improve job matching.
+      </p>
+      <p>
+        <b>Tech:</b> React, TypeScript, Node.js, Express, AI
+      </p>
+    </td>
+    <td width="50%">
+      <h3>🚗 Car Accident AI System</h3>
+      <p>
+        AI pipeline for car damage detection, severity prediction, and repair cost estimation using image and structured data.
+      </p>
+      <p>
+        <b>Tech:</b> Python, YOLO, CNN, XGBoost, Computer Vision
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🏦 Bank Management System</h3>
+      <p>
+        Secure banking web app with authentication, transactions, analytics dashboards, and admin controls.
+      </p>
+      <p>
+        <b>Tech:</b> MERN, JWT, Chart.js
+      </p>
+    </td>
+    <td width="50%">
+      <h3>🛒 E-Commerce Platform</h3>
+      <p>
+        Full online store with authentication, cart, orders, payments, product management, and admin dashboard.
+      </p>
+      <p>
+        <b>Tech:</b> React, Node.js, MongoDB, Stripe
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🎓 E-Learning Platform</h3>
+      <p>
+        Learning platform with courses, videos, user roles, progress tracking, and interactive educational features.
+      </p>
+      <p>
+        <b>Tech:</b> MERN, WebSockets
+      </p>
+    </td>
+    <td width="50%">
+      <h3>💬 Social Media Web App</h3>
+      <p>
+        Social platform with posts, comments, likes, profiles, and real-time chat between users.
+      </p>
+      <p>
+        <b>Tech:</b> MERN, Socket.io
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🎯 Current Focus
 
-* Advanced Full-Stack Development
-* AI/ML model building and integration
-* Deep Learning and Computer Vision
-* Building production-ready web applications
-* Clean code, scalable architecture, and real-world projects
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <h3>⚡</h3>
+      <b>Advanced Full-Stack</b>
+      <p>React, Next.js, Node.js, APIs, auth, dashboards, and deployment.</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>🧠</h3>
+      <b>AI/ML Models</b>
+      <p>Machine learning, deep learning, NLP, and model integration.</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>👁️</h3>
+      <b>Computer Vision</b>
+      <p>YOLO, CNNs, image processing, detection, and classification.</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>🚀</h3>
+      <b>Production Skills</b>
+      <p>Clean code, scalable architecture, testing, Git, and deployment.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📈 GitHub Stats
+## 🧭 Learning Roadmap
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>💻 Full-Stack Development</h3>
+      <ul>
+        <li>Advanced React & Next.js</li>
+        <li>Node.js & Express Architecture</li>
+        <li>Authentication & Authorization</li>
+        <li>Database Design</li>
+        <li>REST API Development</li>
+        <li>Deployment & CI/CD</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🤖 AI / Machine Learning</h3>
+      <ul>
+        <li>Python for Data Science</li>
+        <li>Machine Learning Algorithms</li>
+        <li>Deep Learning</li>
+        <li>Computer Vision</li>
+        <li>Natural Language Processing</li>
+        <li>AI Integration with Web Apps</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alaashamel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alaashamel&theme=tokyonight"
+    alt="GitHub Profile Summary"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alaashamel&theme=tokyonight&hide_border=true" height="165" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alaashamel&theme=tokyonight"
+    alt="Repos Per Language"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alaashamel&theme=tokyonight"
+    alt="Most Commit Language"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaashamel&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alaashamel&theme=tokyonight"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alaashamel&theme=tokyonight&utcOffset=2"
+    alt="Productive Time"
+  />
 </p>
 
 ---
@@ -166,6 +349,9 @@ My main focus is combining **software engineering** with **artificial intelligen
 
 ---
 
-<h3 align="center">
-  Building clean software, intelligent systems, and real-world digital products.
-</h3>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&height=50&lines=Building+clean+software.;Creating+intelligent+systems.;Turning+ideas+into+real-world+products."
+    alt="Footer Typing SVG"
+  />
+</p>
