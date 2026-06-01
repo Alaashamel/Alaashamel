@@ -26,8 +26,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Alaashamel&label=Profile%20Views&color=00C2FF&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Alaashamel?label=Followers&style=for-the-badge&color=00C2FF&labelColor=111111" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/Alaashamel?label=Stars&style=for-the-badge&color=00C2FF&labelColor=111111" alt="GitHub Stars" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-00C2FF?style=for-the-badge&labelColor=111111" alt="Open to Collaboration" />
+  <img src="https://img.shields.io/badge/Building-AI%20Powered%20Apps-00C2FF?style=for-the-badge&labelColor=111111" alt="Building AI Powered Apps" />
 </p>
 
 <p align="center">
@@ -44,9 +44,6 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
-
----
-
 
 ---
 
@@ -76,24 +73,44 @@
 
 ## 🚀 What I Do
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Full--Stack%20Development-React%20%7C%20Next.js%20%7C%20Node.js-00C2FF?style=for-the-badge&labelColor=111111" />
+  <img src="https://img.shields.io/badge/AI%2FML-Python%20%7C%20Deep%20Learning%20%7C%20CV-00C2FF?style=for-the-badge&labelColor=111111" />
+</p>
+
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td width="33%" align="center">
       <h3>💻 Full-Stack Apps</h3>
       <p>
-        Building complete web applications using React, Next.js, Node.js, Express, APIs, authentication, dashboards, and databases.
+        I build complete web apps with modern UI, clean architecture, secure APIs, authentication, dashboards, and database integration.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js&logoColor=339933" />
+        <img src="https://img.shields.io/badge/APIs-111111?style=flat-square" />
       </p>
     </td>
-    <td align="center" width="33%">
-      <h3>🤖 AI/ML Solutions</h3>
+    <td width="33%" align="center">
+      <h3>🤖 AI/ML Systems</h3>
       <p>
-        Working with machine learning, deep learning, computer vision, NLP, and AI-powered systems that solve practical problems.
+        I work on machine learning, deep learning, computer vision, NLP, and AI-powered features that make applications smarter.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=3776AB" />
+        <img src="https://img.shields.io/badge/TensorFlow-111111?style=flat-square&logo=tensorflow&logoColor=FF6F00" />
+        <img src="https://img.shields.io/badge/OpenCV-111111?style=flat-square&logo=opencv&logoColor=5C3EE8" />
       </p>
     </td>
-    <td align="center" width="33%">
-      <h3>⚙️ Real Products</h3>
+    <td width="33%" align="center">
+      <h3>⚙️ Product Building</h3>
       <p>
-        Turning ideas into clean, usable, and scalable products with professional UI, strong logic, and real-world features.
+        I turn ideas into usable digital products with professional UI, strong logic, scalable structure, and real-world features.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Clean%20Code-111111?style=flat-square" />
+        <img src="https://img.shields.io/badge/Deployment-111111?style=flat-square" />
+        <img src="https://img.shields.io/badge/UX-111111?style=flat-square" />
       </p>
     </td>
   </tr>
@@ -179,9 +196,7 @@
       <p>
         Interactive roadmap platform for exploring learning paths and structured tech tracks in a clean web interface.
       </p>
-      <p>
-        <b>Tech:</b> JavaScript
-      </p>
+      <p><b>Tech:</b> JavaScript</p>
       <a href="https://github.com/Alaashamel/Roadmap-Explorer">
         <img src="https://img.shields.io/badge/View%20Project-111111?style=for-the-badge&logo=github&logoColor=white" />
       </a>
@@ -191,9 +206,7 @@
       <p>
         AI-powered web operating system concept focused on smart interfaces, productivity tools, and modern TypeScript architecture.
       </p>
-      <p>
-        <b>Tech:</b> TypeScript
-      </p>
+      <p><b>Tech:</b> TypeScript</p>
       <a href="https://github.com/Alaashamel/AI-Web-Operating-System">
         <img src="https://img.shields.io/badge/View%20Project-111111?style=for-the-badge&logo=github&logoColor=white" />
       </a>
@@ -206,9 +219,7 @@
       <p>
         AI-based real estate analysis project designed to process property-related data and support smarter decision-making.
       </p>
-      <p>
-        <b>Tech:</b> Python
-      </p>
+      <p><b>Tech:</b> Python</p>
       <a href="https://github.com/Alaashamel/ai_real_state_analyzer">
         <img src="https://img.shields.io/badge/View%20Project-111111?style=for-the-badge&logo=github&logoColor=white" />
       </a>
@@ -218,9 +229,7 @@
       <p>
         Data-driven real estate analyzer focused on extracting insights, analyzing trends, and improving property evaluation.
       </p>
-      <p>
-        <b>Tech:</b> Python
-      </p>
+      <p><b>Tech:</b> Python</p>
       <a href="https://github.com/Alaashamel/real_estate_analyzer">
         <img src="https://img.shields.io/badge/View%20Project-111111?style=for-the-badge&logo=github&logoColor=white" />
       </a>
@@ -233,9 +242,7 @@
       <p>
         AI-powered social media platform built with the MERN stack, focused on posts, profiles, communication, and user interaction.
       </p>
-      <p>
-        <b>Tech:</b> MERN Stack
-      </p>
+      <p><b>Tech:</b> MERN Stack</p>
       <a href="https://github.com/Alaashamel/Connectify-Social-Media-Platform">
         <img src="https://img.shields.io/badge/View%20Project-111111?style=for-the-badge&logo=github&logoColor=white" />
       </a>
@@ -245,9 +252,7 @@
       <p>
         Front-end e-commerce project with product presentation, shopping experience layout, and clean responsive UI structure.
       </p>
-      <p>
-        <b>Tech:</b> HTML, CSS, JavaScript
-      </p>
+      <p><b>Tech:</b> HTML, CSS, JavaScript</p>
       <a href="https://github.com/Alaashamel/1st-phase-e-commerece">
         <img src="https://img.shields.io/badge/View%20Project-111111?style=for-the-badge&logo=github&logoColor=white" />
       </a>
@@ -260,9 +265,7 @@
       <p>
         Stock market web platform for displaying financial data, market-focused UI, and interactive investment-related features.
       </p>
-      <p>
-        <b>Tech:</b> JavaScript
-      </p>
+      <p><b>Tech:</b> JavaScript</p>
       <a href="https://github.com/Alaashamel/Stock.Market.platform">
         <img src="https://img.shields.io/badge/View%20Project-111111?style=for-the-badge&logo=github&logoColor=white" />
       </a>
@@ -272,9 +275,7 @@
       <p>
         Web project focused on connecting users with helpful resources, services, or support through a simple digital platform.
       </p>
-      <p>
-        <b>Tech:</b> JavaScript
-      </p>
+      <p><b>Tech:</b> JavaScript</p>
       <a href="https://github.com/Alaashamel/Help-Link">
         <img src="https://img.shields.io/badge/View%20Project-111111?style=for-the-badge&logo=github&logoColor=white" />
       </a>
@@ -287,9 +288,7 @@
       <p>
         Skill development platform concept designed to connect learning, practice, and career growth in one web experience.
       </p>
-      <p>
-        <b>Tech:</b> JavaScript
-      </p>
+      <p><b>Tech:</b> JavaScript</p>
       <a href="https://github.com/Alaashamel/SkillBridge">
         <img src="https://img.shields.io/badge/View%20Project-111111?style=for-the-badge&logo=github&logoColor=white" />
       </a>
@@ -299,9 +298,7 @@
       <p>
         Data analysis and programming practice project combining Python and R concepts for academic and practical learning.
       </p>
-      <p>
-        <b>Tech:</b> Python, R
-      </p>
+      <p><b>Tech:</b> Python, R</p>
       <a href="https://github.com/Alaashamel/R-PY_FINAL_EDITION_PR">
         <img src="https://img.shields.io/badge/View%20Project-111111?style=for-the-badge&logo=github&logoColor=white" />
       </a>
@@ -313,27 +310,59 @@
 
 ## 🎯 Current Focus
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Current%20Mode-Building%20Real%20Projects-00C2FF?style=for-the-badge&labelColor=111111" />
+  <img src="https://img.shields.io/badge/Main%20Track-Full--Stack%20%2B%20AI%2FML-00C2FF?style=for-the-badge&labelColor=111111" />
+</p>
+
 <table>
   <tr>
-    <td align="center" width="25%">
-      <h3>⚡</h3>
-      <b>Advanced Full-Stack</b>
-      <p>React, Next.js, Node.js, APIs, auth, dashboards, and deployment.</p>
+    <td width="50%">
+      <h3>⚡ Advanced Full-Stack Development</h3>
+      <p>
+        Building scalable web apps with React, Next.js, Node.js, Express, REST APIs, authentication, dashboards, and deployment.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js&logoColor=339933" />
+      </p>
     </td>
-    <td align="center" width="25%">
-      <h3>🧠</h3>
-      <b>AI/ML Models</b>
-      <p>Machine learning, deep learning, NLP, and model integration.</p>
+    <td width="50%">
+      <h3>🧠 AI/ML Model Development</h3>
+      <p>
+        Learning and building machine learning, deep learning, NLP, and AI models that can be integrated into real applications.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=3776AB" />
+        <img src="https://img.shields.io/badge/ML-111111?style=flat-square" />
+        <img src="https://img.shields.io/badge/Deep%20Learning-111111?style=flat-square" />
+      </p>
     </td>
-    <td align="center" width="25%">
-      <h3>👁️</h3>
-      <b>Computer Vision</b>
-      <p>YOLO, CNNs, image processing, detection, and classification.</p>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <h3>👁️ Computer Vision</h3>
+      <p>
+        Working with image processing, object detection, classification, CNNs, YOLO, and practical vision-based AI systems.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/OpenCV-111111?style=flat-square&logo=opencv&logoColor=5C3EE8" />
+        <img src="https://img.shields.io/badge/YOLO-111111?style=flat-square" />
+        <img src="https://img.shields.io/badge/CNNs-111111?style=flat-square" />
+      </p>
     </td>
-    <td align="center" width="25%">
-      <h3>🚀</h3>
-      <b>Production Skills</b>
-      <p>Clean code, scalable architecture, testing, Git, and deployment.</p>
+    <td width="50%">
+      <h3>🚀 Production Skills</h3>
+      <p>
+        Improving clean code, Git workflow, API testing, deployment, documentation, project structure, and scalable architecture.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=F05032" />
+        <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=2496ED" />
+        <img src="https://img.shields.io/badge/Vercel-111111?style=flat-square&logo=vercel&logoColor=white" />
+      </p>
     </td>
   </tr>
 </table>
@@ -342,29 +371,53 @@
 
 ## 🧭 Learning Roadmap
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Roadmap-From%20Web%20Apps%20to%20AI%20Products-00C2FF?style=for-the-badge&labelColor=111111" />
+</p>
+
 <table>
   <tr>
     <td width="50%">
-      <h3>💻 Full-Stack Development</h3>
-      <ul>
-        <li>Advanced React & Next.js</li>
-        <li>Node.js & Express Architecture</li>
-        <li>Authentication & Authorization</li>
-        <li>Database Design</li>
-        <li>REST API Development</li>
-        <li>Deployment & CI/CD</li>
-      </ul>
+      <h3>💻 Full-Stack Engineering Path</h3>
+      <p>
+        <img src="https://img.shields.io/badge/01-Advanced%20React%20%26%20Next.js-111111?style=flat-square" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/02-Node.js%20%26%20Express%20Architecture-111111?style=flat-square" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/03-Authentication%20%26%20Authorization-111111?style=flat-square" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/04-Database%20Design-111111?style=flat-square" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/05-REST%20API%20Development-111111?style=flat-square" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/06-Deployment%20%26%20CI%2FCD-111111?style=flat-square" />
+      </p>
     </td>
     <td width="50%">
-      <h3>🤖 AI / Machine Learning</h3>
-      <ul>
-        <li>Python for Data Science</li>
-        <li>Machine Learning Algorithms</li>
-        <li>Deep Learning</li>
-        <li>Computer Vision</li>
-        <li>Natural Language Processing</li>
-        <li>AI Integration with Web Apps</li>
-      </ul>
+      <h3>🤖 AI / Machine Learning Path</h3>
+      <p>
+        <img src="https://img.shields.io/badge/01-Python%20for%20Data%20Science-111111?style=flat-square" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/02-Machine%20Learning%20Algorithms-111111?style=flat-square" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/03-Deep%20Learning-111111?style=flat-square" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/04-Computer%20Vision-111111?style=flat-square" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/05-Natural%20Language%20Processing-111111?style=flat-square" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/06-AI%20Integration%20with%20Web%20Apps-111111?style=flat-square" />
+      </p>
     </td>
   </tr>
 </table>
