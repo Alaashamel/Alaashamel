@@ -175,62 +175,136 @@
 <table>
   <tr>
     <td width="50%">
-      <h3>📄 CV Analyzer Platform</h3>
+      <h3>🧭 Roadmap Explorer</h3>
       <p>
-        AI-powered platform that analyzes CVs, extracts skills, gives ATS-style feedback, and helps improve job matching.
+        Interactive roadmap platform for exploring learning paths and structured tech tracks in a clean web interface.
       </p>
       <p>
-        <b>Tech:</b> React, TypeScript, Node.js, Express, AI
+        <b>Tech:</b> JavaScript
       </p>
+      <a href="https://github.com/Alaashamel/Roadmap-Explorer">
+        <img src="https://img.shields.io/badge/View%20Project-111111?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
     </td>
     <td width="50%">
-      <h3>🚗 Car Accident AI System</h3>
+      <h3>🤖 AI Web Operating System</h3>
       <p>
-        AI pipeline for car damage detection, severity prediction, and repair cost estimation using image and structured data.
+        AI-powered web operating system concept focused on smart interfaces, productivity tools, and modern TypeScript architecture.
       </p>
       <p>
-        <b>Tech:</b> Python, YOLO, CNN, XGBoost, Computer Vision
+        <b>Tech:</b> TypeScript
       </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🏦 Bank Management System</h3>
-      <p>
-        Secure banking web app with authentication, transactions, analytics dashboards, and admin controls.
-      </p>
-      <p>
-        <b>Tech:</b> MERN, JWT, Chart.js
-      </p>
-    </td>
-    <td width="50%">
-      <h3>🛒 E-Commerce Platform</h3>
-      <p>
-        Full online store with authentication, cart, orders, payments, product management, and admin dashboard.
-      </p>
-      <p>
-        <b>Tech:</b> React, Node.js, MongoDB, Stripe
-      </p>
+      <a href="https://github.com/Alaashamel/AI-Web-Operating-System">
+        <img src="https://img.shields.io/badge/View%20Project-111111?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
     </td>
   </tr>
+
   <tr>
     <td width="50%">
-      <h3>🎓 E-Learning Platform</h3>
+      <h3>🏠 AI Real Estate Analyzer</h3>
       <p>
-        Learning platform with courses, videos, user roles, progress tracking, and interactive educational features.
+        AI-based real estate analysis project designed to process property-related data and support smarter decision-making.
       </p>
       <p>
-        <b>Tech:</b> MERN, WebSockets
+        <b>Tech:</b> Python
       </p>
+      <a href="https://github.com/Alaashamel/ai_real_state_analyzer">
+        <img src="https://img.shields.io/badge/View%20Project-111111?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
     </td>
     <td width="50%">
-      <h3>💬 Social Media Web App</h3>
+      <h3>📊 Real Estate Analyzer</h3>
       <p>
-        Social platform with posts, comments, likes, profiles, and real-time chat between users.
+        Data-driven real estate analyzer focused on extracting insights, analyzing trends, and improving property evaluation.
       </p>
       <p>
-        <b>Tech:</b> MERN, Socket.io
+        <b>Tech:</b> Python
       </p>
+      <a href="https://github.com/Alaashamel/real_estate_analyzer">
+        <img src="https://img.shields.io/badge/View%20Project-111111?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <h3>🌐 Connectify Social Media Platform</h3>
+      <p>
+        AI-powered social media platform built with the MERN stack, focused on posts, profiles, communication, and user interaction.
+      </p>
+      <p>
+        <b>Tech:</b> MERN Stack
+      </p>
+      <a href="https://github.com/Alaashamel/Connectify-Social-Media-Platform">
+        <img src="https://img.shields.io/badge/View%20Project-111111?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%">
+      <h3>🛒 E-Commerce Project</h3>
+      <p>
+        Front-end e-commerce project with product presentation, shopping experience layout, and clean responsive UI structure.
+      </p>
+      <p>
+        <b>Tech:</b> HTML, CSS, JavaScript
+      </p>
+      <a href="https://github.com/Alaashamel/1st-phase-e-commerece">
+        <img src="https://img.shields.io/badge/View%20Project-111111?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <h3>📈 Stock Market Platform</h3>
+      <p>
+        Stock market web platform for displaying financial data, market-focused UI, and interactive investment-related features.
+      </p>
+      <p>
+        <b>Tech:</b> JavaScript
+      </p>
+      <a href="https://github.com/Alaashamel/Stock.Market.platform">
+        <img src="https://img.shields.io/badge/View%20Project-111111?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%">
+      <h3>🔗 Help-Link</h3>
+      <p>
+        Web project focused on connecting users with helpful resources, services, or support through a simple digital platform.
+      </p>
+      <p>
+        <b>Tech:</b> JavaScript
+      </p>
+      <a href="https://github.com/Alaashamel/Help-Link">
+        <img src="https://img.shields.io/badge/View%20Project-111111?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <h3>🎯 SkillBridge</h3>
+      <p>
+        Skill development platform concept designed to connect learning, practice, and career growth in one web experience.
+      </p>
+      <p>
+        <b>Tech:</b> JavaScript
+      </p>
+      <a href="https://github.com/Alaashamel/SkillBridge">
+        <img src="https://img.shields.io/badge/View%20Project-111111?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%">
+      <h3>🐍 R & Python Final Edition</h3>
+      <p>
+        Data analysis and programming practice project combining Python and R concepts for academic and practical learning.
+      </p>
+      <p>
+        <b>Tech:</b> Python, R
+      </p>
+      <a href="https://github.com/Alaashamel/R-PY_FINAL_EDITION_PR">
+        <img src="https://img.shields.io/badge/View%20Project-111111?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
     </td>
   </tr>
 </table>
