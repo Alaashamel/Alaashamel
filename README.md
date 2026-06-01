@@ -1,9 +1,13 @@
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=900&color=00C2FF&center=true&vCenter=true&repeat=true&width=900&height=70&lines=Hi,+I'm+Alaa+Shamel;Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Smart+Web+Applications;Turning+Ideas+Into+Real+Products"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=900&color=00C2FF&center=true&vCenter=true&repeat=true&width=900&height=70&lines=%F0%9F%91%8B+Hi,+I'm+Alaa+Shamel;%F0%9F%92%BB+Full-Stack+Developer;%F0%9F%A4%96+AI+%26+Machine+Learning+Enthusiast;%E2%9A%A1+Building+Intelligent+Web+Applications;%F0%9F%9A%80+Turning+Ideas+Into+Real+Products"
     alt="Typing SVG"
   />
 </h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="260" height="170" alt="Coding Animation">
+</p>
 
 <p align="center">
   <b>Full-Stack Developer | AI/ML Enthusiast | Building Intelligent Web Applications</b>
