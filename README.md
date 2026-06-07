@@ -469,7 +469,7 @@
   <a href="https://github.com/Alaashamel">
     <img src="https://img.shields.io/badge/GitHub-Alaashamel-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://nti-portfolio.vercel.app/">
+  <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
