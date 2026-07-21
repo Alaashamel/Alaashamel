@@ -424,35 +424,39 @@
 
 ---
 
-## 📈 GitHub Stats & Activity
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Alaashamel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=Alaashamel&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaashamel&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Alaashamel&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Alaashamel&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true"/>
+
+</div>
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alaashamel&theme=tokyonight"
-    alt="GitHub Profile Summary"
-  />
-</p>
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alaashamel&theme=tokyonight"
-    alt="Repos Per Language"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alaashamel&theme=tokyonight"
-    alt="Most Commit Language"
-  />
-</p>
+<img src="https://raw.githubusercontent.com/Alaashamel/Alaashamel/output/github-contribution-grid-snake-dark.svg"/>
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alaashamel&theme=tokyonight"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alaashamel&theme=tokyonight&utcOffset=2"
-    alt="Productive Time"
-  />
 </p>
 
 ---
