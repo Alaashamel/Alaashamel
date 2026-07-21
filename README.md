@@ -1,4 +1,4 @@
- <h1 align="center">
+<h1 align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=2400&pause=900&color=00C2FF&center=true&vCenter=true&repeat=true&width=950&height=75&lines=%F0%9F%91%8B+Hi,+I'm+Alaa+Shamel;%F0%9F%92%BB+Full-Stack+Developer;%F0%9F%A4%96+AI+%26+Machine+Learning+Enthusiast;%E2%9A%A1+Building+Intelligent+Web+Applications;%F0%9F%9A%80+Turning+Ideas+Into+Real+Products"
     alt="Typing SVG"
@@ -45,6 +45,16 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="#-about-me">About</a> •
+  <a href="#-tech-stack">Tech Stack</a> •
+  <a href="#-featured-projects">Projects</a> •
+  <a href="#-github-analytics">Analytics</a> •
+  <a href="#-connect-with-me">Contact</a>
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
+
 ---
 
 ## 👨‍💻 About Me
@@ -61,6 +71,11 @@
       </p>
       <p>
         My goal is to combine <b>Software Engineering</b> with <b>Artificial Intelligence</b> to create real-world digital products that are useful, smart, and production-ready.
+      </p>
+      <p>
+        🌱 Currently leveling up in <b>Full-Stack Development</b> and <b>Machine Learning</b><br/>
+        💬 Ask me about <b>React, Next.js, Node.js, Python, Computer Vision</b><br/>
+        📫 Reach me at <b>alaashamel32@gmail.com</b>
       </p>
     </td>
     <td width="35%" align="center">
@@ -379,45 +394,21 @@
   <tr>
     <td width="50%">
       <h3>💻 Full-Stack Engineering Path</h3>
-      <p>
-        <img src="https://img.shields.io/badge/01-Advanced%20React%20%26%20Next.js-111111?style=flat-square" />
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/02-Node.js%20%26%20Express%20Architecture-111111?style=flat-square" />
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/03-Authentication%20%26%20Authorization-111111?style=flat-square" />
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/04-Database%20Design-111111?style=flat-square" />
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/05-REST%20API%20Development-111111?style=flat-square" />
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/06-Deployment%20%26%20CI%2FCD-111111?style=flat-square" />
-      </p>
+      <p><img src="https://img.shields.io/badge/01-Advanced%20React%20%26%20Next.js-111111?style=flat-square" /></p>
+      <p><img src="https://img.shields.io/badge/02-Node.js%20%26%20Express%20Architecture-111111?style=flat-square" /></p>
+      <p><img src="https://img.shields.io/badge/03-Authentication%20%26%20Authorization-111111?style=flat-square" /></p>
+      <p><img src="https://img.shields.io/badge/04-Database%20Design-111111?style=flat-square" /></p>
+      <p><img src="https://img.shields.io/badge/05-REST%20API%20Development-111111?style=flat-square" /></p>
+      <p><img src="https://img.shields.io/badge/06-Deployment%20%26%20CI%2FCD-111111?style=flat-square" /></p>
     </td>
     <td width="50%">
       <h3>🤖 AI / Machine Learning Path</h3>
-      <p>
-        <img src="https://img.shields.io/badge/01-Python%20for%20Data%20Science-111111?style=flat-square" />
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/02-Machine%20Learning%20Algorithms-111111?style=flat-square" />
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/03-Deep%20Learning-111111?style=flat-square" />
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/04-Computer%20Vision-111111?style=flat-square" />
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/05-Natural%20Language%20Processing-111111?style=flat-square" />
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/06-AI%20Integration%20with%20Web%20Apps-111111?style=flat-square" />
-      </p>
+      <p><img src="https://img.shields.io/badge/01-Python%20for%20Data%20Science-111111?style=flat-square" /></p>
+      <p><img src="https://img.shields.io/badge/02-Machine%20Learning%20Algorithms-111111?style=flat-square" /></p>
+      <p><img src="https://img.shields.io/badge/03-Deep%20Learning-111111?style=flat-square" /></p>
+      <p><img src="https://img.shields.io/badge/04-Computer%20Vision-111111?style=flat-square" /></p>
+      <p><img src="https://img.shields.io/badge/05-Natural%20Language%20Processing-111111?style=flat-square" /></p>
+      <p><img src="https://img.shields.io/badge/06-AI%20Integration%20with%20Web%20Apps-111111?style=flat-square" /></p>
     </td>
   </tr>
 </table>
@@ -428,9 +419,75 @@
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Alaashamel&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Alaashamel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00C2FF&icon_color=00C2FF&text_color=c9d1d9&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alaashamel&theme=tokyonight&hide_border=true&background=1a1b27&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF" width="49%" alt="GitHub Streak" />
 
 </div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaashamel&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00C2FF&text_color=c9d1d9&langs_count=8" width="49%" alt="Top Languages" />
+
+<a href="https://github.com/Alaashamel">
+  <img src="https://github-profile-trophy.vercel.app/?username=Alaashamel&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" width="49%" alt="Trophies" />
+</a>
+
+</div>
+
+<div align="center">
+  <h3>📈 Contribution Activity</h3>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Alaashamel&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=00C2FF&line=00C2FF&point=ffffff&area=true&area_color=00C2FF" alt="Activity Graph" />
+</div>
+
+<div align="center">
+  <h3>🐍 Contribution Snake</h3>
+  <img src="https://raw.githubusercontent.com/Alaashamel/Alaashamel/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation eating my GitHub contributions" />
+  <p><sub>⚙️ Generated automatically by a GitHub Actions workflow — see setup notes below.</sub></p>
+</div>
+
+<details>
+<summary>⚙️ How to enable the Snake animation (click to expand)</summary>
+<br/>
+
+The snake graphic above is generated by a free GitHub Action. To activate it on your own profile repo:
+
+1. In your `Alaashamel/Alaashamel` repo, create `.github/workflows/snake.yml`
+2. Paste this workflow:
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+3. Push the file, then run the workflow once manually from the **Actions** tab.
+4. After it finishes, the `output` branch will contain the SVG and the image above will render automatically.
+
+</details>
 
 ---
 
@@ -451,11 +508,15 @@
   </a>
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
 
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&height=50&lines=Building+clean+software.;Creating+intelligent+systems.;Turning+ideas+into+real-world+products."
     alt="Footer Typing SVG"
   />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="100" alt="Thanks for visiting" />
 </p>
