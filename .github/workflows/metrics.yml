@@ -1,0 +1,41 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          user: Alaashamel
+
+          filename: github-metrics.svg
+
+          template: classic
+
+          base: header, activity, community, repositories, metadata
+
+          config_timezone: Africa/Cairo
+
+          plugin_languages: yes
+          plugin_languages_limit: 8
+
+          plugin_isocalendar: yes
+
+          plugin_habits: yes
+
+          plugin_activity: yes
+
+          plugin_lines: yes
+
+          plugin_achievements: yes
