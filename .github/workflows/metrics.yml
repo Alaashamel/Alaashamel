@@ -23,19 +23,17 @@ jobs:
 
           template: classic
 
-          base: header, activity, community, repositories, metadata
-
           config_timezone: Africa/Cairo
+
+          base: header, activity, community, repositories, metadata
 
           plugin_languages: yes
           plugin_languages_limit: 8
 
           plugin_isocalendar: yes
 
-          plugin_habits: yes
-
-          plugin_activity: yes
-
           plugin_lines: yes
 
-          plugin_achievements: yes
+          plugin_stars: yes
+
+          plugin_followup: yes
