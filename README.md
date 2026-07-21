@@ -428,17 +428,21 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Alaashamel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Alaashamel&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
 
 <img width="49%" src="https://streak-stats.demolab.com?user=Alaashamel&theme=tokyonight&hide_border=true"/>
 
 </div>
 
+<br>
+
 <div align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaashamel&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaashamel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
+
+<br>
 
 <div align="center">
 
@@ -446,18 +450,13 @@
 
 </div>
 
+<br>
+
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Alaashamel&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Alaashamel&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
 
 </div>
-## 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Alaashamel/Alaashamel/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
 
 ---
 
