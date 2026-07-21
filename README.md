@@ -1,5 +1,4 @@
-دا الكود بتاع البروففايل بتاعي ف جيت هاب عدل الايرورز والي مخليه الحجات الحمر تظهر وابعتهولي كامل بعد التعديل وروق عليا الكلام 
-<h1 align="center">
+ <h1 align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=2400&pause=900&color=00C2FF&center=true&vCenter=true&repeat=true&width=950&height=75&lines=%F0%9F%91%8B+Hi,+I'm+Alaa+Shamel;%F0%9F%92%BB+Full-Stack+Developer;%F0%9F%A4%96+AI+%26+Machine+Learning+Enthusiast;%E2%9A%A1+Building+Intelligent+Web+Applications;%F0%9F%9A%80+Turning+Ideas+Into+Real+Products"
     alt="Typing SVG"
