@@ -1,6 +1,7 @@
+دا الكود بتاع البروففايل بتاعي ف جيت هاب عدل الايرورز والي مخليه الحجات الحمر تظهر وابعتهولي كامل بعد التعديل وروق عليا الكلام 
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=2400&pause=900&color=00C2FF&center=true&vCenter=true&repeat=true&width=950&height=75&lines=%F0%9F%91%8B+Hi%2C+I'm+Alaa+Shamel;%F0%9F%92%BB+Full-Stack+Developer;%F0%9F%A4%96+AI+%26+Machine+Learning+Enthusiast;%E2%9A%A1+Building+Intelligent+Web+Applications;%F0%9F%9A%80+Turning+Ideas+Into+Real+Products"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=2400&pause=900&color=00C2FF&center=true&vCenter=true&repeat=true&width=950&height=75&lines=%F0%9F%91%8B+Hi,+I'm+Alaa+Shamel;%F0%9F%92%BB+Full-Stack+Developer;%F0%9F%A4%96+AI+%26+Machine+Learning+Enthusiast;%E2%9A%A1+Building+Intelligent+Web+Applications;%F0%9F%9A%80+Turning+Ideas+Into+Real+Products"
     alt="Typing SVG"
   />
 </h1>
@@ -424,26 +425,34 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats & Activity
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Alaashamel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF"
-    alt="GitHub Stats"
-    width="48%"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Alaashamel&theme=tokyonight&hide_border=true&background=0D1117&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF"
-    alt="GitHub Streak"
-    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alaashamel&theme=tokyonight"
+    alt="GitHub Profile Summary"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaashamel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF"
-    alt="Top Languages"
-    width="45%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alaashamel&theme=tokyonight"
+    alt="Repos Per Language"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alaashamel&theme=tokyonight"
+    alt="Most Commit Language"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alaashamel&theme=tokyonight"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alaashamel&theme=tokyonight&utcOffset=2"
+    alt="Productive Time"
   />
 </p>
 
@@ -453,35 +462,24 @@
 
 <p align="center">
   <a href="mailto:alaashamel32@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-alaashamel32@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/alaa-shamel-a0392b2a6">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Alaa%20Shamel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Alaashamel">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Alaashamel-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
-
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=Alaashamel&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=10&margin-h=10"
-    alt="GitHub Trophies"
-  />
-</p>
-
----
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&height=50&lines=Building+clean+software.;Creating+intelligent+systems.;Turning+ideas+into+real-world+products.;Let's+connect+and+build+something+awesome!"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&height=50&lines=Building+clean+software.;Creating+intelligent+systems.;Turning+ideas+into+real-world+products."
     alt="Footer Typing SVG"
   />
 </p>
