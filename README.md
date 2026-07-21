@@ -1,6 +1,6 @@
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=2400&pause=900&color=00C2FF&center=true&vCenter=true&repeat=true&width=950&height=75&lines=%F0%9F%91%8B+Hi,+I'm+Alaa+Shamel;%F0%9F%92%BB+Full-Stack+Developer;%F0%9F%A4%96+AI+%26+Machine+Learning+Enthusiast;%E2%9A%A1+Building+Intelligent+Web+Applications;%F0%9F%9A%80+Turning+Ideas+Into+Real+Products"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=2400&pause=900&color=00C2FF&center=true&vCenter=true&repeat=true&width=950&height=75&lines=%F0%9F%91%8B+Hi%2C+I'm+Alaa+Shamel;%F0%9F%92%BB+Full-Stack+Developer;%F0%9F%A4%96+AI+%26+Machine+Learning+Enthusiast;%E2%9A%A1+Building+Intelligent+Web+Applications;%F0%9F%9A%80+Turning+Ideas+Into+Real+Products"
     alt="Typing SVG"
   />
 </h1>
@@ -426,32 +426,26 @@
 
 ## 📈 GitHub Stats & Activity
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alaashamel&theme=tokyonight"
-    alt="GitHub Profile Summary"
-  />
-</p>
+<!-- ✅ STATS CARDS - تم إزالة الكاردات اللي بتجيب Error واستبدالها بكاردات بديلة -->
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alaashamel&theme=tokyonight"
-    alt="Repos Per Language"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alaashamel&theme=tokyonight"
-    alt="Most Commit Language"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alaashamel&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api?username=Alaashamel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"
     alt="GitHub Stats"
+    width="48%"
   />
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alaashamel&theme=tokyonight&utcOffset=2"
-    alt="Productive Time"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Alaashamel&theme=tokyonight&hide_border=true&background=0D1117"
+    alt="GitHub Streak"
+    width="48%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaashamel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"
+    alt="Top Languages"
+    width="50%"
   />
 </p>
 
