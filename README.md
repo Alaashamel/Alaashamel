@@ -420,7 +420,7 @@
 <div align="center">
 
 <img src="https://github-stats-extended.vercel.app/api?username=Alaashamel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00C2FF&icon_color=00C2FF&text_color=c9d1d9&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats" />
-<img src="https://streak-stats.demolab.com/?user=Alaashamel&theme=tokyonight&hide_border=true&background=1a1b27&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF" width="49%" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Alaashamel&theme=tokyonight&hide_border=true&background=1a1b27&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF" width="49%" alt="GitHub Streak" />
 
 </div>
 
@@ -429,7 +429,7 @@
 <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Alaashamel&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00C2FF&text_color=c9d1d9&langs_count=8" width="49%" alt="Top Languages" />
 
 <a href="https://github.com/Alaashamel">
-  <img src="https://github-profile-trophy.vercel.app/?username=Alaashamel&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" width="49%" alt="Trophies" />
+  <img src="https://github-profile-trophy-winning.vercel.app/?username=Alaashamel&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" width="49%" alt="Trophies" />
 </a>
 
 </div>
@@ -437,13 +437,7 @@
 <div align="center">
   <h3>📈 Contribution Activity</h3>
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Alaashamel&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=00C2FF&line=00C2FF&point=ffffff&area=true&area_color=00C2FF" alt="Activity Graph" />
-</div>
-
-<div align="center">
-  <h3>🕒 Productive Time & Language Breakdown</h3>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alaashamel&theme=github_dark" width="49%" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alaashamel&theme=github_dark&utcOffset=2" width="49%" alt="Productive Time" />
-  <p><sub>⚡ Auto-generated live on every page load — no workflow or setup required.</sub></p>
+  <p><sub>⚡ All cards above are auto-generated live on every page load — no workflow or setup required.</sub></p>
 </div>
 
 ---
