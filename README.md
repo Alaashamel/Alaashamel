@@ -421,8 +421,8 @@
 | 🔀 **Pull Requests Opened** | **5** | 1 first PR + 4 other PRs in 2 repositories |
 | 👀 **Pull Requests Reviewed** | **1** | Reviewed 1 PR in TaskFlow-Dashboard |
 | 🐛 **Issues Opened** | **9** | 1 first issue + 8 other issues in 5 repositories |
-| ⭐ **Stars Earned** | **40** | Total stars earned |
-| 🎯 **Total Contributions** | **242** | In the last year |
+| ⭐ **Stars Earned** | **51** | Total stars earned |
+| 🎯 **Total Contributions** | **245** | In the last year |
 
 </div>
 
