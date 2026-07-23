@@ -410,27 +410,23 @@
 
 <br/>
 
+### 📊 Contribution Activity Breakdown
+
 <div align="center">
 
-| Metric | Value |
-|--------|-------|
-| 🎯 **Total Contributions (Last Year)** | **242** |
-| 📝 **Total Commits** | **113** |
-| 🔀 **Pull Requests** | **1** |
-| ⭐ **Stars Earned** | **40** |
-| 📦 **Repositories Created** | **7** |
-| 🐛 **Issues Opened** | **0** |
+| Metric | Value | Details |
+|--------|-------|---------|
+| 📝 **Total Commits** | **114** | Created 114 commits in 7 repositories |
+| 🆕 **Repositories Created** | **7** | 7 new repositories |
+| 🔀 **Pull Requests Opened** | **5** | 1 first PR + 4 other PRs in 2 repositories |
+| 👀 **Pull Requests Reviewed** | **1** | Reviewed 1 PR in TaskFlow-Dashboard |
+| 🐛 **Issues Opened** | **9** | 1 first issue + 8 other issues in 5 repositories |
+| ⭐ **Stars Earned** | **40** | Total stars earned |
+| 🎯 **Total Contributions** | **242** | In the last year |
 
 </div>
 
 <br/>
-
-<div align="center">
-
-### 📈 Contribution Activity (July 2026)
-
-
----
 
 ## 🌐 Connect With Me
 
