@@ -396,17 +396,39 @@
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=Alaashamel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00C2FF&icon_color=00C2FF&text_color=c9d1d9&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats" />
+<img src="https://github-stats-extended.vercel.app/api?username=Alaashamel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00C2FF&icon_color=00C2FF&text_color=c9d1d9&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="49%" alt="GitHub Stats" />
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=Alaashamel&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00C2FF&text_color=c9d1d9&langs_count=8" width="49%" alt="Top Languages" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=Alaashamel&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00C2FF&text_color=c9d1d9&langs_count=8&hide=Jupyter%20Notebook" width="49%" alt="Top Languages" />
 
 </div>
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Alaashamel&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=00C2FF&line=00C2FF&point=ffffff&area=true&area_color=00C2FF" alt="Activity Graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Alaashamel&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=00C2FF&line=00C2FF&point=ffffff&area=true&area_color=00C2FF&days=30" alt="Activity Graph" />
 
 </div>
+
+<br/>
+
+<div align="center">
+
+| Metric | Value |
+|--------|-------|
+| 🎯 **Total Contributions (Last Year)** | **242** |
+| 📝 **Total Commits** | **113** |
+| 🔀 **Pull Requests** | **1** |
+| ⭐ **Stars Earned** | **40** |
+| 📦 **Repositories Created** | **7** |
+| 🐛 **Issues Opened** | **0** |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 📈 Contribution Activity (July 2026)
+
 
 ---
 
