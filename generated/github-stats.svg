@@ -29,7 +29,7 @@
     
       <rect x="20" y="126" width="138.66666666666666" height="54" rx="8" fill="#21262d" opacity="0.6"/>
       <text x="89.33333333333333" y="145" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif" font-size="16" fill="#c9d1d9">🔥</text>
-      <text x="89.33333333333333" y="167" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif" font-size="22" font-weight="600" fill="#58a6ff">0</text>
+      <text x="89.33333333333333" y="167" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif" font-size="22" font-weight="600" fill="#58a6ff">795</text>
       <text x="89.33333333333333" y="185" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif" font-size="13" fill="#8b949e">Contributions</text>
     
       <rect x="170.66666666666666" y="126" width="138.66666666666666" height="54" rx="8" fill="#21262d" opacity="0.6"/>
@@ -39,6 +39,6 @@
     
       <rect x="321.3333333333333" y="126" width="138.66666666666666" height="54" rx="8" fill="#21262d" opacity="0.6"/>
       <text x="390.66666666666663" y="145" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif" font-size="16" fill="#c9d1d9">📝</text>
-      <text x="390.66666666666663" y="167" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif" font-size="22" font-weight="600" fill="#58a6ff">100</text>
+      <text x="390.66666666666663" y="167" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif" font-size="22" font-weight="600" fill="#58a6ff">170</text>
       <text x="390.66666666666663" y="185" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif" font-size="13" fill="#8b949e">Issues</text>
     </svg>
