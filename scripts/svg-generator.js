@@ -221,7 +221,7 @@ export function generateContributionCard(stats, theme) {
   const radius = config.layout.cardBorderRadius;
 
   const days = Array.isArray(stats.contributionDays) ? stats.contributionDays : [];
-  const totalContributions = typeof stats.contributionsThisYear === 'string' ? parseInt(stats.contributionsThisYear.replace(/,/g, '')) : (stats.contributionsThisYear || 0);
+  const totalContributions = typeof stats.basic.contributionsThisYear === 'string' ? parseInt(stats.basic.contributionsThisYear.replace(/,/g, '')) : (stats.basic.contributionsThisYear || 0);
 
   let svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${w}" height="${h}" viewBox="0 0 ${w} ${h}">`;
   svg += `

@@ -43,6 +43,12 @@ export class GitHubStats {
       if (show.watchers) stats.watchers = all.reduce((sum, r) => sum + (r.watchers?.totalCount || 0), 0);
     }
 
+    const contrib = s.contributionsCollection;
+    if (contrib) {
+      if (show.commits) stats.commits = contrib.totalCommitContributions || 0;
+      if (show.contributionsThisYear) stats.contributionsThisYear = contrib.contributionCalendar?.totalContributions || contrib.totalCommitContributions || 0;
+    }
+
     return stats;
   }
 
@@ -53,30 +59,23 @@ export class GitHubStats {
 
     const contrib = s.contributionsCollection;
     if (contrib) {
-      if (show.commits) {
-        stats.commits = contrib.totalCommitContributions || 0;
-        stats.restrictedCommits = contrib.restrictedContributionsCount || 0;
-      }
-      if (show.contributionsThisYear) {
-        stats.contributionsThisYear = contrib.totalCommitContributions || 0;
-      }
       if (show.prsOpened) stats.prsOpened = contrib.totalPullRequestContributions || 0;
       if (show.issuesOpened) stats.issuesOpened = contrib.totalIssueContributions || 0;
       if (show.codeReviews) stats.codeReviews = contrib.totalPullRequestReviewContributions || 0;
     }
 
     if (show.prsMerged || show.mergeRate) {
-      const prs = s.pullRequests?.nodes || [];
-      const merged = prs.filter(p => p.merged).length;
-      const total = prs.length;
+      const prsTotal = s.pullRequests?.totalCount || 0;
+      const merged = s.pullRequests?.nodes?.filter(p => p.merged).length || 0;
       if (show.prsMerged) stats.prsMerged = merged;
-      if (show.mergeRate) stats.mergeRate = calculateMergeRate(merged, total);
+      if (show.mergeRate) stats.mergeRate = calculateMergeRate(merged, prsTotal);
     }
 
     if (show.issuesClosed) {
+      const issuesTotal = s.issues?.totalCount || 0;
       const issues = s.issues?.nodes || [];
       stats.issuesClosed = issues.filter(i => i.closedAt !== null).length;
-      if (show.issuesOpened) stats.issuesOpened = issues.length;
+      if (show.issuesOpened) stats.issuesOpened = issuesTotal;
     }
 
     if (show.discussionsStarted || show.discussionsAnswered) {
