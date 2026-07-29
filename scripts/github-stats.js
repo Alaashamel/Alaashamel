@@ -59,14 +59,22 @@ export class GitHubStats {
 
     const contrib = s.contributionsCollection;
     if (contrib) {
-      if (show.prsOpened) stats.prsOpened = contrib.totalPullRequestContributions || 0;
       if (show.issuesOpened) stats.issuesOpened = contrib.totalIssueContributions || 0;
       if (show.codeReviews) stats.codeReviews = contrib.totalPullRequestReviewContributions || 0;
     }
 
-    if (show.prsMerged || show.mergeRate) {
+    const prSearch = this.raw.prSearch;
+    if (prSearch) {
+      const prsTotal = prSearch.total || 0;
+      const merged = prSearch.merged || 0;
+      if (show.prsOpened) stats.prsOpened = prsTotal;
+      if (show.prsMerged) stats.prsMerged = merged;
+      if (show.mergeRate) stats.mergeRate = calculateMergeRate(merged, prsTotal);
+    } else if (show.prsOpened || show.prsMerged || show.mergeRate) {
+      // fallback to the (potentially laggy) GraphQL connection
       const prsTotal = s.pullRequests?.totalCount || 0;
       const merged = s.pullRequests?.nodes?.filter(p => p.merged).length || 0;
+      if (show.prsOpened) stats.prsOpened = contrib?.totalPullRequestContributions ?? prsTotal;
       if (show.prsMerged) stats.prsMerged = merged;
       if (show.mergeRate) stats.mergeRate = calculateMergeRate(merged, prsTotal);
     }

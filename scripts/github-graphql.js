@@ -108,9 +108,32 @@ export class GitHubGraphQLClient {
     logger.info('Fetching user stats from GitHub GraphQL API');
     const data = await this.run(query, { login: username, from, to });
 
+    logger.info('Fetching accurate PR counts from Search API');
+    data.prSearch = await this.fetchPRSearchCounts(username);
+
     await globalCache.set(cacheKey, data);
     logger.info('User stats fetched successfully');
     return data;
+  }
+
+  /**
+   * GitHub's GraphQL `user.pullRequests.totalCount` connection can lag
+   * significantly behind reality right after bulk PR activity (unlike
+   * the `issues` connection, which tends to update immediately). The
+   * REST Search API index updates in near real time, so we use it as
+   * the source of truth for PR totals/merged counts.
+   */
+  async fetchPRSearchCounts(username) {
+    const headers = { Authorization: `Bearer ${this.token}`, Accept: 'application/vnd.github+json' };
+    const [totalRes, mergedRes] = await Promise.all([
+      fetch(`https://api.github.com/search/issues?q=${encodeURIComponent(`type:pr author:${username}`)}`, { headers }),
+      fetch(`https://api.github.com/search/issues?q=${encodeURIComponent(`type:pr author:${username} is:merged`)}`, { headers }),
+    ]);
+    const [totalJson, mergedJson] = await Promise.all([totalRes.json(), mergedRes.json()]);
+    return {
+      total: totalJson.total_count || 0,
+      merged: mergedJson.total_count || 0,
+    };
   }
 
   async fetchContributionCalendar(username, year = new Date().getFullYear() - 1) {
