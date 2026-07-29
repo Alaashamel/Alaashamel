@@ -307,12 +307,6 @@
 
 <br/>
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <em>Live, auto-updating stats — pulled directly from GitHub, always accurate.</em>
-</p>
-
 <!--START_STATS-->
 <p align="center"><h2>📊 GitHub Statistics</h2></p>
 
