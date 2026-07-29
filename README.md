@@ -326,8 +326,3 @@
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="100" alt="Thanks for visiting" />
 </p>
 
-<!--START_STATS-->
-<p align="center"><h2>📊 GitHub Statistics</h2></p>
-
-<p align="center"><img src="./generated/github-stats.svg" width="49%" align="center"><br><img src="./generated/top-languages.svg" width="49%" align="center"></p><p align="center"><img src="./generated/streak.svg" width="49%" align="center"><br><img src="./generated/contribution-summary.svg" width="49%" align="center"></p>
-<!--END_STATS--><!--END_STATS-->
