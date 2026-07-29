@@ -11,7 +11,7 @@ export class GitHubGraphQLClient {
 
   async run(query, variables = {}) {
     return withRetry(
-      () => graphql({ query, variables, headers: this.headers }),
+      () => graphql(query, { variables, headers: this.headers }),
       { maxRetries: 5, baseDelayMs: 1000, maxDelayMs: 30000 }
     );
   }
