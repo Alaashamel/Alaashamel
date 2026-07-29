@@ -1,4 +1,3 @@
-
 <h1 align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=2400&pause=900&color=00C2FF&center=true&vCenter=true&repeat=true&width=950&height=75&lines=%F0%9F%91%8B+Hi,+I'm+Alaa+Shamel;%F0%9F%92%BB+Full-Stack+Developer;%F0%9F%A4%96+AI+%26+Machine+Learning+Enthusiast;%E2%9A%A1+Building+Intelligent+Web+Applications;%F0%9F%9A%80+Turning+Ideas+Into+Real+Products"
@@ -277,39 +276,51 @@
 
 <br/>
 
-## 🧭 Learning Roadmap
+<!--START_STATS-->
+## 📊 GitHub Statistics
 
-<table>
+<div align="center">
+
+<!-- Activity Graph -->
+<table align="center" border="0" cellpadding="15" cellspacing="0">
   <tr>
-    <td width="50%" valign="top">
-      <h3>💻 Full-Stack Engineering Path</h3>
-      <img src="https://img.shields.io/badge/01-Advanced%20React%20%26%20Next.js-111111?style=flat-square" /><br/><br/>
-      <img src="https://img.shields.io/badge/02-Node.js%20%26%20Express%20Architecture-111111?style=flat-square" /><br/><br/>
-      <img src="https://img.shields.io/badge/03-Authentication%20%26%20Authorization-111111?style=flat-square" /><br/><br/>
-      <img src="https://img.shields.io/badge/04-Database%20Design-111111?style=flat-square" /><br/><br/>
-      <img src="https://img.shields.io/badge/05-REST%20API%20Development-111111?style=flat-square" /><br/><br/>
-      <img src="https://img.shields.io/badge/06-Deployment%20%26%20CI%2FCD-111111?style=flat-square" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 AI / Machine Learning Path</h3>
-      <img src="https://img.shields.io/badge/01-Python%20for%20Data%20Science-111111?style=flat-square" /><br/><br/>
-      <img src="https://img.shields.io/badge/02-Machine%20Learning%20Algorithms-111111?style=flat-square" /><br/><br/>
-      <img src="https://img.shields.io/badge/03-Deep%20Learning-111111?style=flat-square" /><br/><br/>
-      <img src="https://img.shields.io/badge/04-Computer%20Vision-111111?style=flat-square" /><br/><br/>
-      <img src="https://img.shields.io/badge/05-Natural%20Language%20Processing-111111?style=flat-square" /><br/><br/>
-      <img src="https://img.shields.io/badge/06-AI%20Integration%20with%20Web%20Apps-111111?style=flat-square" />
+    <td align="center" valign="middle" style="padding: 25px; background: #0d1117; border-radius: 12px; border: 1px solid #30363d;">
+      <h3>📈 GitHub Activity Graph</h3>
+      <br>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alaashamel&theme=github-compact&hide_border=true&bg_color=0d1117&color=00C2FF&line=00C2FF&point=ffffff&area=true&area_color=00C2FF" width="100%" alt="GitHub Activity Graph" />
     </td>
   </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
+<br><br>
 
-<br/>
+<!-- GitHub Streak -->
+<table align="center" border="0" cellpadding="15" cellspacing="0">
+  <tr>
+    <td align="center" valign="middle" style="padding: 25px; background: #0d1117; border-radius: 12px; border: 1px solid #30363d;">
+      <h3>🔥 GitHub Streak</h3>
+      <br>
+      <img src="https://streak-stats.demolab.com?user=Alaashamel&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF" alt="GitHub Streak Stats" />
+    </td>
+  </tr>
+</table>
 
-<!--START_STATS-->
-<p align="center"><h2>📊 GitHub Statistics</h2></p>
+<br><br>
 
-<p align="center"><img src="./generated/github-stats.svg" width="49%" align="center"><br><img src="./generated/top-languages.svg" width="49%" align="center"></p><p align="center"><img src="./generated/streak.svg" width="49%" align="center"><br><img src="./generated/contribution-summary.svg" width="49%" align="center"></p>
+<!-- GitHub Stats & Top Languages -->
+<table align="center" border="0" cellpadding="15" cellspacing="0">
+  <tr>
+    <td align="center" valign="middle" style="padding: 25px; background: #0d1117; border-radius: 12px; border: 1px solid #30363d;">
+      <h3>📊 GitHub Stats</h3>
+      <br>
+      <img src="./generated/github-stats.svg" width="90%" alt="GitHub Stats" />
+      <br><br>
+      <img src="./generated/top-languages.svg" width="90%" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+</div>
 <!--END_STATS-->
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
