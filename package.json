@@ -1,0 +1,28 @@
+{
+  "name": "github-stats",
+  "version": "1.0.0",
+  "description": "Enterprise-grade self-hosted GitHub Statistics System powered by the official GitHub GraphQL API",
+  "type": "module",
+  "private": true,
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "scripts": {
+    "start": "node scripts/index.js",
+    "generate": "node scripts/index.js",
+    "stats": "node scripts/index.js",
+    "lint": "node --check scripts/index.js scripts/github-graphql.js scripts/github-stats.js scripts/svg-generator.js scripts/markdown-generator.js scripts/readme-updater.js scripts/theme-engine.js config/config.js"
+  },
+  "dependencies": {
+    "@octokit/graphql": "^8.1.1"
+  },
+  "keywords": [
+    "github-stats",
+    "github-readme-stats",
+    "profile-readme",
+    "github-profile",
+    "self-hosted",
+    "svg-cards"
+  ],
+  "license": "MIT"
+}
