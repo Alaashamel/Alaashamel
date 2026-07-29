@@ -38,7 +38,6 @@ export class GitHubGraphQLClient {
           bio
           location
           company
-          email
           websiteUrl
           twitterUsername
           followers { totalCount }

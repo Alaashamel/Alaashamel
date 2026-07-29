@@ -17,7 +17,6 @@ export class GitHubStats {
       bio: u.bio || '',
       location: u.location || '',
       company: u.company || '',
-      email: u.email || '',
       websiteUrl: u.websiteUrl || '',
       followers: u.followers ? u.followers.totalCount : 0,
       following: u.following ? u.following.totalCount : 0,
