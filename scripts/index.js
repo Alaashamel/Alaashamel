@@ -75,10 +75,6 @@ async function main() {
     generatedCards.push(outFile);
   }
 
-  logger.section('Updating README');
-  const updater = new ReadmeUpdater(config.output.readmePath);
-  await updater.update(stats);
-
   logger.section('Generation Complete');
   logger.info(`Generated ${generatedCards.length} SVG cards`);
   generatedCards.forEach((c) => logger.info(`  - ${c}`));
