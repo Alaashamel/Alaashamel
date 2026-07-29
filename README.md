@@ -276,14 +276,27 @@
 
 <br/>
 
-<!--START_STATS-->
-<p align="center"><h2>📊 GitHub Statistics</h2></p>
+## 📊 GitHub Statistics
 
-<p align="center"><img src="./generated/github-stats.svg" width="49%" align="center"><br><img src="./generated/top-languages.svg" width="49%" align="center"></p><p align="center"><img src="./generated/streak.svg" width="49%" align="center"><br><img src="./generated/contribution-summary.svg" width="49%" align="center"></p>
-<!--END_STATS-->
+<!-- Streak Section -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alaashamel&theme=dark&hide_border=true&background=0D1117&ring=00C2FF&fire=00C2FF&currStreakNum=00C2FF&sideNums=00C2FF&currStreakLabel=00C2FF&sideLabels=00C2FF&dates=00C2FF" width="65%" />
+</p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
+<br/>
 
+<!-- Contribution Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alaashamel&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&area_color=00C2FF&color=00C2FF&line=00C2FF&point=00C2FF&custom_title=📊%20Contribution%20Graph" width="85%" />
+</p>
+
+<br/>
+
+<!-- Charts -->
+<p align="center">
+  <img src="./generated/github-stats.svg" width="46%" />
+  <img src="./generated/top-languages.svg" width="46%" />
+</p>
 <br/>
 
 ## 🌐 Connect With Me
