@@ -35,9 +35,12 @@ jobs:
 
       - name: Commit and push changes
         if: steps.changes.outputs.changed == 'true'
+        env:
+          GH_STATS_TOKEN: ${{ secrets.GH_STATS_TOKEN }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin https://x-access-token:$GH_STATS_TOKEN@github.com/Alaashamel/Alaashamel.git
           git add generated/ README.md
           git diff --cached --quiet && exit 0
           git commit -m "chore: update GitHub statistics [skip ci]"
