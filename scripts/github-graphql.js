@@ -100,11 +100,8 @@ export class GitHubGraphQLClient {
               title
             }
           }
-          pullRequests(first: 100, states: MERGED) { totalCount }
-          discussions { totalCount }
           organizations(first: 10) { totalCount nodes { login name } }
           packages(first: 10) { totalCount }
-          releases(first: 20) { totalCount }
         }
       }
     `;
