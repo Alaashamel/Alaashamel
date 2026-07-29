@@ -327,7 +327,12 @@
 
 <div align="center">
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alaashamel&theme=tokyonight&hide_border=true&background=1a1b27&stroke=00C2FF&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF" alt="GitHub Streak" />
+  <p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Alaashamel&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
