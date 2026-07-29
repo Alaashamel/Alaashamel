@@ -313,9 +313,17 @@
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=Alaashamel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00C2FF&icon_color=00C2FF&text_color=c9d1d9&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="49%" alt="GitHub Stats" />
+<img
+src="https://github-stats-extended.vercel.app/api?username=Alaashamel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00C2FF&icon_color=00C2FF&text_color=c9d1d9&include_all_commits=true&count_private=true"
+width="49%"
+alt="GitHub Stats"
+/>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=Alaashamel&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00C2FF&text_color=c9d1d9&langs_count=8&hide=Jupyter%20Notebook" width="49%" alt="Top Languages" />
+<img
+src="https://github-stats-extended.vercel.app/api/top-langs?username=Alaashamel&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00C2FF&text_color=c9d1d9&langs_count=8&hide=Jupyter%20Notebook"
+width="49%"
+alt="Top Languages"
+/>
 
 </div>
 
