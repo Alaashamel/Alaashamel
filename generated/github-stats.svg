@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="200" viewBox="0 0 480 200">
+      <defs>
+        <filter id="shadow-gs-1" x="-10%" y="-10%" width="130%" height="130%">
+          <feDropShadow dx="0" dy="4" stdDeviation="8" flood-opacity="0.25" flood-color="#00000040"/>
+        </filter>
+        <linearGradient id="grad-gs-2" x1="0%" y1="0%" x2="100%" y2="0%">
+          <stop offset="0%" stop-color="#58a6ff"/>
+          <stop offset="100%" stop-color="#3fb950"/>
+        </linearGradient>
+      </defs>
+    <rect x="0" y="0" width="480" height="200" rx="12" fill="#0d1117" filter="url(#shadow-gs-3)"/>
+    <rect x="0" y="0" width="480" height="200" rx="12" fill="none" stroke="#30363d" stroke-width="1"/>
+    <text x="240" y="40" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif" font-size="18" font-weight="700" fill="#f0f6fc">Alaa Shamel (Genious)</text>
+  
+      <rect x="20" y="60" width="138.66666666666666" height="54" rx="8" fill="#21262d" opacity="0.6"/>
+      <text x="89.33333333333333" y="79" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif" font-size="16" fill="#c9d1d9">👥</text>
+      <text x="89.33333333333333" y="101" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif" font-size="22" font-weight="600" fill="#58a6ff">11</text>
+      <text x="89.33333333333333" y="119" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif" font-size="13" fill="#8b949e">Followers</text>
+    
+      <rect x="170.66666666666666" y="60" width="138.66666666666666" height="54" rx="8" fill="#21262d" opacity="0.6"/>
+      <text x="240" y="79" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif" font-size="16" fill="#c9d1d9">⭐</text>
+      <text x="240" y="101" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif" font-size="22" font-weight="600" fill="#58a6ff">56</text>
+      <text x="240" y="119" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif" font-size="13" fill="#8b949e">Stars</text>
+    
+      <rect x="321.3333333333333" y="60" width="138.66666666666666" height="54" rx="8" fill="#21262d" opacity="0.6"/>
+      <text x="390.66666666666663" y="79" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif" font-size="16" fill="#c9d1d9">🍴</text>
+      <text x="390.66666666666663" y="101" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif" font-size="22" font-weight="600" fill="#58a6ff">0</text>
+      <text x="390.66666666666663" y="119" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif" font-size="13" fill="#8b949e">Forks</text>
+    
+      <rect x="20" y="126" width="138.66666666666666" height="54" rx="8" fill="#21262d" opacity="0.6"/>
+      <text x="89.33333333333333" y="145" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif" font-size="16" fill="#c9d1d9">🔥</text>
+      <text x="89.33333333333333" y="167" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif" font-size="22" font-weight="600" fill="#58a6ff">0</text>
+      <text x="89.33333333333333" y="185" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif" font-size="13" fill="#8b949e">Contributions</text>
+    
+      <rect x="170.66666666666666" y="126" width="138.66666666666666" height="54" rx="8" fill="#21262d" opacity="0.6"/>
+      <text x="240" y="145" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif" font-size="16" fill="#c9d1d9">📥</text>
+      <text x="240" y="167" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif" font-size="22" font-weight="600" fill="#58a6ff">73</text>
+      <text x="240" y="185" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif" font-size="13" fill="#8b949e">PRs</text>
+    
+      <rect x="321.3333333333333" y="126" width="138.66666666666666" height="54" rx="8" fill="#21262d" opacity="0.6"/>
+      <text x="390.66666666666663" y="145" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif" font-size="16" fill="#c9d1d9">📝</text>
+      <text x="390.66666666666663" y="167" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif" font-size="22" font-weight="600" fill="#58a6ff">100</text>
+      <text x="390.66666666666663" y="185" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif" font-size="13" fill="#8b949e">Issues</text>
+    </svg>
