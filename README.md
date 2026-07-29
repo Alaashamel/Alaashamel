@@ -1,3 +1,5 @@
+# Alaashamel
+
 <h1 align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=2400&pause=900&color=00C2FF&center=true&vCenter=true&repeat=true&width=950&height=75&lines=%F0%9F%91%8B+Hi,+I'm+Alaa+Shamel;%F0%9F%92%BB+Full-Stack+Developer;%F0%9F%A4%96+AI+%26+Machine+Learning+Enthusiast;%E2%9A%A1+Building+Intelligent+Web+Applications;%F0%9F%9A%80+Turning+Ideas+Into+Real+Products"
@@ -168,7 +170,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>📊 Real Estate Analyzer</h3>
-      <p>Data-driven real estate analyzer focused on extracting insights, analyzing trends, and improving property evaluation.</p>
+      <p>Data-driven real estate analyzer focused at extracting insights, analyzing trends, and improving property evaluation.</p>
       <p><b>Tech:</b> Python</p>
       <a href="https://github.com/Alaashamel/real_estate_analyzer">
         <img src="https://img.shields.io/badge/View%20Project-111111?style=for-the-badge&logo=github&logoColor=white" />
@@ -311,37 +313,9 @@
   <em>Live, auto-updating stats — pulled directly from GitHub, always accurate.</em>
 </p>
 
-<div align="center">
+<!--START_STATS-->
 
-<img
-src="https://github-stats-extended.vercel.app/api?username=Alaashamel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00C2FF&icon_color=00C2FF&text_color=c9d1d9&include_all_commits=true&count_private=true"
-width="49%"
-alt="GitHub Stats"
-/>
-
-<img
-src="https://github-stats-extended.vercel.app/api/top-langs?username=Alaashamel&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00C2FF&text_color=c9d1d9&langs_count=8&hide=Jupyter%20Notebook"
-width="49%"
-alt="Top Languages"
-/>
-
-</div>
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Alaashamel&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=00C2FF&line=00C2FF&point=ffffff&area=true&area_color=00C2FF&days=30" alt="Activity Graph" />
-
-</div>
-
-<div align="center">
-  <br/>
-  <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Alaashamel&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-</div>
+<!--END_STATS-->
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
 
