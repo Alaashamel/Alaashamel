@@ -277,50 +277,9 @@
 <br/>
 
 <!--START_STATS-->
-## 📊 GitHub Statistics
+<p align="center"><h2>📊 GitHub Statistics</h2></p>
 
-<div align="center">
-
-<!-- Activity Graph -->
-<table align="center" border="0" cellpadding="15" cellspacing="0">
-  <tr>
-    <td align="center" valign="middle" style="padding: 25px; background: #0d1117; border-radius: 12px; border: 1px solid #30363d;">
-      <h3>📈 GitHub Activity Graph</h3>
-      <br>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alaashamel&theme=github-compact&hide_border=true&bg_color=0d1117&color=00C2FF&line=00C2FF&point=ffffff&area=true&area_color=00C2FF" width="100%" alt="GitHub Activity Graph" />
-    </td>
-  </tr>
-</table>
-
-<br><br>
-
-<!-- GitHub Streak -->
-<table align="center" border="0" cellpadding="15" cellspacing="0">
-  <tr>
-    <td align="center" valign="middle" style="padding: 25px; background: #0d1117; border-radius: 12px; border: 1px solid #30363d;">
-      <h3>🔥 GitHub Streak</h3>
-      <br>
-      <img src="https://streak-stats.demolab.com?user=Alaashamel&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF" alt="GitHub Streak Stats" />
-    </td>
-  </tr>
-</table>
-
-<br><br>
-
-<!-- GitHub Stats & Top Languages -->
-<table align="center" border="0" cellpadding="15" cellspacing="0">
-  <tr>
-    <td align="center" valign="middle" style="padding: 25px; background: #0d1117; border-radius: 12px; border: 1px solid #30363d;">
-      <h3>📊 GitHub Stats</h3>
-      <br>
-      <img src="./generated/github-stats.svg" width="90%" alt="GitHub Stats" />
-      <br><br>
-      <img src="./generated/top-languages.svg" width="90%" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-</div>
+<p align="center"><img src="./generated/github-stats.svg" width="49%" align="center"><br><img src="./generated/top-languages.svg" width="49%" align="center"></p><p align="center"><img src="./generated/streak.svg" width="49%" align="center"><br><img src="./generated/contribution-summary.svg" width="49%" align="center"></p>
 <!--END_STATS-->
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
