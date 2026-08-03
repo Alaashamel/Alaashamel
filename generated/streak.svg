@@ -11,7 +11,7 @@
     <rect x="20" y="70" width="200" height="80" rx="8" fill="#21262d" opacity="0.6"/>
     <rect x="240" y="70" width="200" height="80" rx="8" fill="#21262d" opacity="0.6"/>
     <text x="120" y="104" text-anchor="middle" font-size="24" fill="#58a6ff">🔥</text>
-    <text x="120" y="126" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif" font-size="22" font-weight="600" fill="#58a6ff">6</text>
+    <text x="120" y="126" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif" font-size="22" font-weight="600" fill="#58a6ff">0</text>
     <text x="120" y="144" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif" font-size="13" fill="#8b949e">Current Streak</text>
     <text x="340" y="104" text-anchor="middle" font-size="24" fill="#bc8cff">🏆</text>
     <text x="340" y="126" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif" font-size="22" font-weight="600" fill="#bc8cff">6</text>
