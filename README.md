@@ -1,6 +1,6 @@
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2600&pause=900&color=00C2FF&center=true&vCenter=true&repeat=true&width=950&height=78&lines=%F0%9F%91%8B+Hi%2C+I'm+Alaa+Shamel;Full-Stack+Software+Engineer;Building+AI-Powered+Applications;Engineering+Scalable+Systems;Turning+Ideas+Into+Real+Products"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=36&amp;duration=2600&amp;pause=900&amp;color=00C2FF&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=950&amp;height=78&amp;lines=%F0%9F%91%8B+Hi%2C+I'm+Alaa+Shamel;Full-Stack+Software+Engineer;Building+AI-Powered+Applications;Engineering+Scalable+Systems;Turning+Ideas+Into+Real+Products"
     alt="Alaa Shamel Introduction"
   />
 </h1>
@@ -36,17 +36,17 @@
 
 <p>
   <img
-    src="https://komarev.com/ghpvc/?username=Alaashamel&label=Profile%20Views&color=00C2FF&style=for-the-badge"
+    src="https://komarev.com/ghpvc/?username=Alaashamel&amp;label=Profile%20Views&amp;color=00C2FF&amp;style=for-the-badge"
     alt="Profile Views"
   />
   &nbsp;
   <img
-    src="https://img.shields.io/badge/Open%20to-Collaboration-00C2FF?style=for-the-badge&labelColor=111111"
+    src="https://img.shields.io/badge/Open%20to-Collaboration-00C2FF?style=for-the-badge&amp;labelColor=111111"
     alt="Open to Collaboration"
   />
   &nbsp;
   <img
-    src="https://img.shields.io/badge/Building-AI%20Powered%20Products-00C2FF?style=for-the-badge&labelColor=111111"
+    src="https://img.shields.io/badge/Building-AI%20Powered%20Products-00C2FF?style=for-the-badge&amp;labelColor=111111"
     alt="Building AI Powered Products"
   />
 </p>
@@ -54,14 +54,14 @@
 <p>
   <a href="https://www.linkedin.com/in/alaa-shamel-a0392b2a6">
     <img
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"
       alt="LinkedIn"
     />
   </a>
   &nbsp;
   <a href="mailto:alaashamel32@gmail.com">
     <img
-      src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"
       alt="Email"
     />
   </a>
@@ -135,7 +135,7 @@ Product Development
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=00C2FF&center=true&vCenter=true&width=680&height=38&lines=Think+%E2%86%92+Build+%E2%86%92+Test+%E2%86%92+Ship"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;duration=3000&amp;pause=900&amp;color=00C2FF&amp;center=true&amp;vCenter=true&amp;width=680&amp;height=38&amp;lines=Think+%E2%86%92+Build+%E2%86%92+Test+%E2%86%92+Ship"
     alt="Engineering Workflow"
   />
 </p>
@@ -409,7 +409,7 @@ Improving software quality through testing, Docker, CI/CD, deployment, Git workf
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=00C2FF&center=true&vCenter=true&width=700&height=38&lines=Learning+continuously.;Building+with+purpose.;Improving+every+iteration."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;duration=3000&amp;pause=900&amp;color=00C2FF&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=38&amp;lines=Learning+continuously.;Building+with+purpose.;Improving+every+iteration."
     alt="Current Focus Animation"
   />
 </p>
@@ -422,7 +422,7 @@ Improving software quality through testing, Docker, CI/CD, deployment, Git workf
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Alaashamel&theme=dark&hide_border=true&background=0D1117&ring=00C2FF&fire=00C2FF&currStreakNum=00C2FF&sideNums=00C2FF&currStreakLabel=00C2FF&sideLabels=00C2FF&dates=00C2FF"
+    src="https://streak-stats.demolab.com/?user=Alaashamel&amp;theme=dark&amp;hide_border=true&amp;background=0D1117&amp;ring=00C2FF&amp;fire=00C2FF&amp;currStreakNum=00C2FF&amp;sideNums=00C2FF&amp;currStreakLabel=00C2FF&amp;sideLabels=00C2FF&amp;dates=00C2FF"
     width="70%"
     alt="GitHub Streak"
   />
@@ -432,7 +432,7 @@ Improving software quality through testing, Docker, CI/CD, deployment, Git workf
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Alaashamel&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&area_color=00C2FF&color=00C2FF&line=00C2FF&point=00C2FF&custom_title=Contribution%20Activity"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Alaashamel&amp;theme=react-dark&amp;bg_color=0D1117&amp;hide_border=true&amp;area=true&amp;area_color=00C2FF&amp;color=00C2FF&amp;line=00C2FF&amp;point=00C2FF&amp;custom_title=Contribution%20Activity"
     width="93%"
     alt="Contribution Activity"
   />
@@ -483,7 +483,7 @@ Improving software quality through testing, Docker, CI/CD, deployment, Git workf
 
 <a href="mailto:alaashamel32@gmail.com">
   <img
-    src="https://img.shields.io/badge/Email-alaashamel32@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    src="https://img.shields.io/badge/Email-alaashamel32@gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"
     alt="Email"
   />
 </a>
@@ -492,7 +492,7 @@ Improving software quality through testing, Docker, CI/CD, deployment, Git workf
 
 <a href="https://www.linkedin.com/in/alaa-shamel-a0392b2a6">
   <img
-    src="https://img.shields.io/badge/LinkedIn-Alaa%20Shamel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    src="https://img.shields.io/badge/LinkedIn-Alaa%20Shamel-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"
     alt="LinkedIn"
   />
 </a>
@@ -506,7 +506,7 @@ Build with purpose · Engineer with clarity · Ship something useful
 <br/><br/>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=1000&color=00C2FF&center=true&vCenter=true&width=760&height=45&lines=Thanks+for+stopping+by.;See+you+in+the+next+build."
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=21&amp;duration=3200&amp;pause=1000&amp;color=00C2FF&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=45&amp;lines=Thanks+for+stopping+by.;See+you+in+the+next+build."
   alt="Closing Animation"
 />
 
