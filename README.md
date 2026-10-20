@@ -1,521 +1,128 @@
-<h1 align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2600&pause=900&color=00C2FF&center=true&vCenter=true&repeat=true&width=950&height=78&lines=%F0%9F%91%8B+Hi%2C+I'm+Alaa+Shamel;Full-Stack+Software+Engineer;Building+AI-Powered+Applications;Engineering+Scalable+Systems;Turning+Ideas+Into+Real+Products"
-    alt="Alaa Shamel Introduction"
-  />
-</h1>
-
 <div align="center">
 
-<br/>
+<img src="./assets/banner.svg" alt="Alaa Shamel — Full-Stack & AI Engineer" width="100%"/>
 
-<img
-  src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"
-  width="300"
-  alt="Coding Animation"
-/>
-
-<br/><br/>
-
-<p>
-  <strong>Full-Stack Software Engineer</strong>
-  &nbsp;·&nbsp;
-  <strong>AI &amp; Intelligent Systems</strong>
-  &nbsp;·&nbsp;
-  <strong>Product Engineering</strong>
-</p>
-
-<p>
-  <em>
-    Building modern software with clean architecture, scalable backend systems,
-    and practical AI.
-  </em>
-</p>
+<a href="https://github.com/Alaashamel">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00C2FF&center=true&vCenter=true&width=760&height=50&lines=Building+AI-powered+products+end+to+end;RAG+%C2%B7+Multi-Agent+Systems+%C2%B7+LLM+Apps;MERN+%C2%B7+Next.js+%C2%B7+FastAPI+%C2%B7+Docker;Turning+ideas+into+shipped+software" alt="Typing animation"/>
+</a>
 
 <br/>
 
-<p>
-  <img
-    src="https://komarev.com/ghpvc/?username=Alaashamel&label=Profile%20Views&color=00C2FF&style=for-the-badge"
-    alt="Profile Views"
-  />
-  &nbsp;
-  <img
-    src="https://img.shields.io/badge/Open%20to-Collaboration-00C2FF?style=for-the-badge&labelColor=111111"
-    alt="Open to Collaboration"
-  />
-  &nbsp;
-  <img
-    src="https://img.shields.io/badge/Building-AI%20Powered%20Products-00C2FF?style=for-the-badge&labelColor=111111"
-    alt="Building AI Powered Products"
-  />
-</p>
-
-<p>
-  <a href="https://www.linkedin.com/in/alaa-shamel-a0392b2a6">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-  &nbsp;
-  <a href="mailto:alaashamel32@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    />
-  </a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-alashamel.github.io-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://alashamel.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alaa%20Shamel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alaa-shamel-a0392b2a6)
+[![Email](https://img.shields.io/badge/Email-alaashamel32%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alaashamel32@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=Alaashamel&label=Profile%20Views&color=7c5cff&style=for-the-badge)
 
 </div>
 
-<br/>
-
-<img
-  src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif"
-  width="100%"
-/>
-
-<br/>
-
-## About Me
-
-<table>
-<tr>
-
-<td width="66%" valign="middle">
-
-<p>
-I'm a <strong>Full-Stack Software Engineer</strong> from <strong>Giza, Egypt</strong>,
-focused on building software that combines solid engineering with useful products.
-</p>
-
-<p>
-I work across the stack — from frontend interfaces and backend APIs to databases,
-authentication, deployment, and AI-powered features.
-</p>
-
-<p>
-My approach is centered around
-<strong>clean architecture</strong>,
-<strong>maintainable code</strong>,
-<strong>scalable systems</strong>,
-and <strong>practical AI</strong>.
-</p>
-
-<p>
-I enjoy taking ideas from an initial concept and turning them into structured,
-usable products.
-</p>
-
-</td>
-
-<td width="34%" align="center" valign="middle">
-
-<img
-  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-  width="220"
-  alt="Developer Animation"
-/>
-
-<br/><br/>
-
-<sub>
-Software Engineering<br/>
-AI Integration<br/>
-Product Development
-</sub>
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=00C2FF&center=true&vCenter=true&width=680&height=38&lines=Think+%E2%86%92+Build+%E2%86%92+Test+%E2%86%92+Ship"
-    alt="Engineering Workflow"
-  />
-</p>
-
-<br/>
-
 ---
 
-## Selected Work
+## 👨‍💻 About
 
-<table>
-<tr>
+Results-driven **Full-Stack Software Engineer** from Giza, Egypt. I design and ship products across the whole stack, with a strong focus on **AI & LLM applications**: retrieval-augmented generation, multi-agent orchestration, and production-minded delivery (Docker, CI/CD, automated tests).
 
-<td width="50%" valign="top">
+> 🚀 **See everything in motion → [alashamel.github.io](https://alashamel.github.io)**
 
-### AI Document Assistant
-
-AI-powered document understanding and retrieval system designed to turn large document collections into searchable, context-aware knowledge.
-
-**Focus:** `RAG` · `AI` · `Search` · `Full-Stack`
-
-<br/>
-
-<a href="https://github.com/Alaashamel/AI-doc-Chatbot">
-  View Repository →
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### Connectify
-
-A full-stack social platform covering authentication, profiles, content sharing, communication, and modern backend services.
-
-**Focus:** `MERN` · `REST APIs` · `Auth` · `Real-Time`
-
-<br/>
-
-<a href="https://github.com/Alaashamel/Connectify-Social-Media-Platform">
-  View Repository →
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### AI Web Operating System
-
-An AI-powered web application concept exploring intelligent interfaces, productivity workflows, and modern application architecture.
-
-**Focus:** `AI` · `TypeScript` · `Product Engineering`
-
-<br/>
-
-<a href="https://github.com/Alaashamel/AI-Web-Operating-System">
-  View Repository →
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### Pixel Kingdom
-
-A browser-based game project exploring world design, gameplay systems, interactive mechanics, and modular game architecture.
-
-**Focus:** `React` · `Phaser` · `Game Systems`
-
-<br/>
-
-<a href="https://github.com/Alaashamel/pixel-kingdom-survival-rpg">
-  View Repository →
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### AI Real Estate Analyzer
-
-A data-driven application focused on analyzing real-estate information and extracting useful insights for property-related decision making.
-
-**Focus:** `Python` · `Data Analysis` · `AI`
-
-<br/>
-
-<a href="https://github.com/Alaashamel/ai_real_state_analyzer">
-  View Repository →
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### Roadmap Explorer
-
-An interactive learning platform built around structured technology roadmaps and guided learning paths.
-
-**Focus:** `JavaScript` · `Web Development` · `Product UX`
-
-<br/>
-
-<a href="https://github.com/Alaashamel/Roadmap-Explorer">
-  View Repository →
-</a>
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-<details>
-<summary><strong>Explore more projects</strong></summary>
-
-<br/>
-
-- [Real Estate Analyzer](https://github.com/Alaashamel/real_estate_analyzer)
-- [Stock Market Platform](https://github.com/Alaashamel/Stock.Market.platform)
-- [Help-Link](https://github.com/Alaashamel/Help-Link)
-- [SkillBridge](https://github.com/Alaashamel/SkillBridge)
-- [E-Commerce Project](https://github.com/Alaashamel/1st-phase-e-commerece)
-- [R & Python Final Edition](https://github.com/Alaashamel/R-PY_FINAL_EDITION_PR)
-
-</details>
-
-<br/>
-
-<img
-  src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif"
-  width="100%"
-/>
-
-<br/>
-
-## What I Build
-
-<table>
-<tr>
-
-<td width="33%" valign="top">
-
-### Full-Stack Systems
-
-Complete web applications with modern interfaces, structured APIs, authentication, databases, dashboards, and scalable architecture.
-
-<br/>
-
-`React` · `Next.js` · `Node.js`
-
-</td>
-
-<td width="33%" valign="top">
-
-### AI-Powered Applications
-
-Practical AI systems combining machine learning, computer vision, NLP, and intelligent workflows with real applications.
-
-<br/>
-
-`Python` · `TensorFlow` · `OpenCV`
-
-</td>
-
-<td width="33%" valign="top">
-
-### Product Engineering
-
-Turning ideas into maintainable products through clean structure, reliable backend logic, testing, deployment, and thoughtful UX.
-
-<br/>
-
-`Docker` · `Git` · `CI/CD`
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
----
-
-## Technology Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Frontend
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite,html,css&theme=dark" alt="frontend"/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+**Backend & Data**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python,mongodb,postgres,prisma,redis&theme=dark" alt="backend"/>
 
-<br/><br/>
+**AI / ML**<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,flask&theme=dark" alt="ai"/> &nbsp;`LLM APIs` `RAG` `LangGraph` `Streamlit`
 
-### Backend &amp; APIs
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" />
-
-<br/><br/>
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis" />
-
-<br/><br/>
-
-### AI &amp; Engineering
-
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv,docker,git,github,vscode" />
-
-<br/>
-
-<sub>
-React · Next.js · JavaScript · Node.js · Express · Python · FastAPI ·
-MongoDB · PostgreSQL · MySQL · Redis · Docker · Git
-</sub>
+**DevOps & Quality**<br/>
+<img src="https://skillicons.dev/icons?i=docker,githubactions,vercel,git,jest,playwright&theme=dark" alt="devops"/>
 
 </div>
 
-<br/>
-
-<img
-  src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif"
-  width="100%"
-/>
-
-<br/>
-
-## Current Focus
+## ⭐ Featured Projects
 
 <table>
 <tr>
+<td width="50%" valign="top">
 
-<td width="33%" valign="top">
+### 🧠 [AI-doc-Chatbot](https://github.com/Alaashamel/AI-doc-Chatbot)
+Enterprise **RAG** document-chat platform with multiple LLM providers, Prisma + PostgreSQL, Docker, CI/CD, Jest & Playwright.
 
-### Full-Stack Engineering
-
-Building production-oriented applications with React, Next.js, Node.js, APIs, authentication, databases, and structured architecture.
-
-</td>
-
-<td width="33%" valign="top">
-
-### AI &amp; Intelligent Systems
-
-Exploring machine learning, deep learning, NLP, computer vision, and practical AI integration into real products.
+`Next.js` `TypeScript` `RAG` `Docker`
 
 </td>
+<td width="50%" valign="top">
 
-<td width="33%" valign="top">
+### 🤖 [ai-engineering-orchestrator](https://github.com/Alaashamel/ai-engineering-orchestrator)
+**Multi-agent** system that turns software ideas into complete, tested projects, orchestrated with LangGraph.
 
-### Production Engineering
-
-Improving software quality through testing, Docker, CI/CD, deployment, Git workflows, and maintainable systems.
+`Python` `LangGraph` `Agents`
 
 </td>
-
 </tr>
-</table>
-
-<br/>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=00C2FF&center=true&vCenter=true&width=700&height=38&lines=Learning+continuously.;Building+with+purpose.;Improving+every+iteration."
-    alt="Current Focus Animation"
-  />
-</p>
-
-<br/>
-
----
-
-## GitHub Activity
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=Alaashamel&theme=dark&hide_border=false&background=0D1117&ring=00C2FF&fire=00C2FF&currStreakNum=00C2FF&sideNums=00C2FF&currStreakLabel=00C2FF&sideLabels=00C2FF&dates=00C2FF"
-    width="70%"
-    alt="GitHub Streak Statistics"
-  />
-</p>
-
-<br/>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Alaashamel&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&area_color=00C2FF&color=00C2FF&line=00C2FF&point=00C2FF&custom_title=Contribution%20Activity"
-    width="93%"
-    alt="GitHub Contribution Activity"
-  />
-</p>
-
-<br/>
-
-<table align="center">
 <tr>
+<td valign="top">
 
-<td width="50%" align="center" valign="middle">
+### 🖥️ [AI-Web-Operating-System](https://github.com/Alaashamel/AI-Web-Operating-System)
+A full desktop OS in the browser: draggable windows, glassmorphism UI, AI assistant and lock screen.
 
-<img
-  src="./generated/github-stats.svg"
-  width="100%"
-  alt="GitHub Statistics"
-/>
+`React` `TypeScript` `Framer Motion`
 
 </td>
+<td valign="top">
 
-<td width="50%" align="center" valign="middle">
+### 📄 [resudy-ai](https://github.com/Alaashamel/resudy-ai)
+AI resume platform: ATS score, job match, cover letters and interview prep, powered by the **Claude API**.
 
-<img
-  src="./generated/top-languages.svg"
-  width="100%"
-  alt="Top Languages"
-/>
+`Next.js` `Supabase` `Claude`
 
 </td>
+</tr>
+<tr>
+<td valign="top">
 
+### 🔎 [coderag](https://github.com/Alaashamel/coderag)
+Q&A assistant for codebases that answers with **cited source locations**.
+
+`Python` `RAG` `TF-IDF`
+
+</td>
+<td valign="top">
+
+### 🎮 [pixel-kingdom-survival-rpg](https://github.com/Alaashamel/pixel-kingdom-survival-rpg)
+Survival RPG with a 4000×4000 procedural world, enemy AI and touch controls.
+
+`React` `Phaser 3`
+
+</td>
 </tr>
 </table>
 
-<br/>
-
-<img
-  src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif"
-  width="100%"
-/>
-
-<br/>
+## 📊 GitHub Activity
 
 <div align="center">
 
-## Let's Connect
+<img src="./github-metrics.svg" alt="GitHub metrics" width="100%"/>
 
 <br/>
 
-<a href="mailto:alaashamel32@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Email-alaashamel32@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Email"
-  />
-</a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alaashamel&theme=tokyonight&hide_border=true&background=0D1224" height="170" alt="Streak"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alaashamel&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity graph"/>
 
-&nbsp;
+</div>
 
-<a href="https://www.linkedin.com/in/alaa-shamel-a0392b2a6">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Alaa%20Shamel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
+## 📫 Let's Connect
 
-<br/><br/>
+<div align="center">
 
-<em>
-Build with purpose · Engineer with clarity · Ship something useful
-</em>
+I'm open to full-stack and AI engineering opportunities and collaborations.
 
-<br/><br/>
+[![Email](https://img.shields.io/badge/Email-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alaashamel32@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alaa-shamel-a0392b2a6)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://alashamel.github.io)
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=1000&color=00C2FF&center=true&vCenter=true&width=760&height=45&lines=Thanks+for+stopping+by.;See+you+in+the+next+build."
-  alt="Closing Animation"
-/>
-
-<br/><br/>
-
-<img
-  src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif"
-  width="85"
-  alt="Thanks for visiting"
-/>
+<sub>⚡ Thanks for stopping by, and stars are always appreciated ⭐</sub>
 
 </div>
