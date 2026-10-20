@@ -96,16 +96,15 @@ footer{padding:34px 0;text-align:center;color:var(--mut);font-size:.85rem;border
 <p class="lead">Results-driven full-stack engineer who ships <strong>AI-powered products</strong> end to end: RAG pipelines, multi-agent systems, scalable APIs and interfaces people enjoy using.</p>
 <div class="btns"><a class="btn p" href="#work">View my work ↓</a><a class="btn" href="mailto:alaashamel32@gmail.com">Say hello</a><a class="btn" href="https://github.com/Alaashamel" target="_blank" rel="noopener">GitHub ↗</a></div>
 </div>
-<div class="orb"><div class="ring"><span>React</span><span>Next.js</span><span>Node</span><span>Python</span><span>LLMs</span></div><div class="core"></div><div class="ini">Genius
-</div></div>
+<div class="orb"><div class="ring"><span>React</span><span>Next.js</span><span>Node</span><span>Python</span><span>LLMs</span></div><div class="core"></div><div class="ini">AS</div></div>
 </div></header>
 
 <main>
 <div class="wrap"><div class="stats rv">
 <div class="stat"><b data-n="61" id="s-repos">0</b><span>Public repositories</span></div>
 <div class="stat"><b data-n="23" id="s-fol">0</b><span>GitHub followers</span></div>
-<div class="stat"><b data-n="10" data-p="+">0</b><span>AI &amp; full-stack products</span></div>
-<div class="stat"><b data-n="3" data-p="+">0</b><span>Years building</span></div>
+<div class="stat"><b data-n="62" id="s-stars">0</b><span>Stars earned</span></div>
+<div class="stat"><b data-n="3" data-p="+">0</b><span>Years on GitHub</span></div>
 </div></div>
 
 <section id="about"><div class="wrap">
@@ -176,7 +175,7 @@ function draw(){const q=$('#q').value.toLowerCase();
 const list=REPOS.filter(r=>(lang==='All'||r.language===lang)&&(r.name+' '+(r.description||'')).toLowerCase().includes(q));
 $('#repoGrid').innerHTML=list.map(r=>`<article class="card in"><h3><span>${esc(r.name)}</span><span class="chip">${r.language||'—'}</span></h3><p>${esc((r.description||'No description yet.').slice(0,130))}</p><div class="links"><a href="${r.html_url}" target="_blank" rel="noopener">Code ↗</a>${r.homepage?`<a href="${esc(r.homepage)}" target="_blank" rel="noopener">Live ↗</a>`:''}<span style="margin-inline-start:auto;color:var(--mut)">★ ${r.stargazers_count}</span></div></article>`).join('')||'<p style="color:var(--mut)">No matches.</p>';bindCards()}
 fetch('https://api.github.com/users/Alaashamel/repos?per_page=100&sort=pushed').then(r=>r.json()).then(d=>{
-if(!Array.isArray(d))throw 0;REPOS=d.filter(r=>!r.fork);
+if(!Array.isArray(d))throw 0;REPOS=d.filter(r=>!r.fork);{const st=REPOS.reduce((a,r)=>a+r.stargazers_count,0),el=$('#s-stars');el.dataset.n=st;if(el.textContent!=='0')el.textContent=st}
 const ls=['All',...[...new Set(REPOS.map(r=>r.language).filter(Boolean))].slice(0,6)];
 $('#filters').innerHTML=ls.map(l=>`<button class="f ${l==='All'?'on':''}">${l}</button>`).join(' ');
 $('#filters').onclick=e=>{if(e.target.classList.contains('f')){lang=e.target.textContent;document.querySelectorAll('.f').forEach(b=>b.classList.toggle('on',b===e.target));draw()}};
