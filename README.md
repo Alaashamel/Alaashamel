@@ -7,7 +7,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://alashamel.github.io/Alaashamel/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alaa%20Shamel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alaa-shamel-a0392b2a6)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alaashamel32@gmail.com)
-![Views](https://komarev.com/ghpvc/?username=Alaashamel&label=Views&color=7c5cff&style=for-the-badge)
+[![Profile Views](https://komarev.com/ghpvc/?username=Alaashamel&label=Profile%20Views&color=7c5cff&style=for-the-badge)](https://alashamel.github.io/Alaashamel/)
 
 <br/>
 
@@ -48,14 +48,14 @@ and production-minded delivery: Docker, CI/CD and automated testing.
 <br/>
 <img src="./assets/h-stats.svg" alt="By the numbers" width="70%"/>
 <br/><br/>
-<img src="./assets/stats.svg" alt="Stats" width="92%"/>
+<img src="./assets/stats.svg" alt="GitHub stats" width="92%"/>
+<br/><br/>
+<img src="./assets/activity.svg" alt="Contribution activity" width="92%"/>
+<br/><br/>
+<img src="./assets/langs.svg" alt="Languages" width="92%"/>
 <br/>
-
-<details>
-<summary><b>📈 Detailed GitHub metrics</b></summary>
+<sub>📊 Auto-updated daily from the GitHub API</sub>
 <br/>
-<img src="./github-metrics.svg" alt="GitHub metrics" width="100%"/>
-</details>
 
 <br/>
 <img src="./assets/h-contact.svg" alt="Let's Connect" width="70%"/>
