@@ -4,10 +4,10 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://alashamel.github.io/Alaashamel/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://alashamel.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alaa%20Shamel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alaa-shamel-a0392b2a6)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alaashamel32@gmail.com)
-[![Profile Views](https://hits.sh/github.com/Alaashamel.svg?style=for-the-badge&label=Profile%20Views&color=7c5cff&labelColor=1e2540)](https://alashamel.github.io/Alaashamel/)
+[![Profile Views](https://hits.sh/github.com/Alaashamel.svg?style=for-the-badge&label=Profile%20Views&color=7c5cff&labelColor=1e2540)](https://alashamel.github.io/)
 
 <br/>
 
@@ -23,7 +23,7 @@ I work across <b>MERN</b>, <b>Next.js</b> and <b>Python</b>, with a focus on <b>
 and production-minded delivery: Docker, CI/CD and automated testing.
 </p>
 
-<p align="center"><a href="https://alashamel.github.io/Alaashamel/"><b>✦ Explore the interactive portfolio →</b></a></p>
+<p align="center"><a href="https://alashamel.github.io/"><b>✦ Explore the interactive portfolio →</b></a></p>
 
 <div align="center">
 <br/>
