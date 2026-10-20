@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Portfolio]([https://img.shields.io/badge/Portfolio](https://alaashamel.github.io/Alaashamel/)-Live%20Site-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white)]([https://alashamel.github.io/Alaashamel/](https://alaashamel.github.io/Alaashamel/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://alashamel.github.io/Alaashamel/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alaa%20Shamel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alaa-shamel-a0392b2a6)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alaashamel32@gmail.com)
 ![Views](https://komarev.com/ghpvc/?username=Alaashamel&label=Views&color=7c5cff&style=for-the-badge)
@@ -15,13 +15,15 @@
 
 </div>
 
+<p align="center"><img src="./assets/code.svg" alt="alaa.config.ts" width="86%"/></p>
+
 <p align="center">
 Results-driven <b>Full-Stack Software Engineer</b> who ships AI-powered products end to end.<br/>
 I work across <b>MERN</b>, <b>Next.js</b> and <b>Python</b>, with a focus on <b>RAG pipelines</b>, <b>multi-agent systems</b><br/>
 and production-minded delivery: Docker, CI/CD and automated testing.
 </p>
 
-<p align="center"><a href="[[https://alashamel.github.io/Alaashamel/](https://alaashamel.github.io/Alaashamel/)](https://alaashamel.github.io/Alaashamel/)"><b>✦ Explore the interactive portfolio →</b></a></p>
+<p align="center"><a href="https://alashamel.github.io/Alaashamel/"><b>✦ Explore the interactive portfolio →</b></a></p>
 
 <div align="center">
 <br/>
@@ -33,20 +35,14 @@ and production-minded delivery: Docker, CI/CD and automated testing.
 <br/><br/>
 </div>
 
-<table align="center">
-<tr>
-<td width="50%"><a href="https://github.com/Alaashamel/AI-doc-Chatbot"><img src="./assets/card-ai-doc-chatbot.svg" alt="AI-doc-Chatbot"/></a></td>
-<td width="50%"><a href="https://github.com/Alaashamel/ai-engineering-orchestrator"><img src="./assets/card-orchestrator.svg" alt="ai-engineering-orchestrator"/></a></td>
-</tr>
-<tr>
-<td><a href="https://github.com/Alaashamel/AI-Web-Operating-System"><img src="./assets/card-web-os.svg" alt="AI-Web-Operating-System"/></a></td>
-<td><a href="https://github.com/Alaashamel/resudy-ai"><img src="./assets/card-resudy.svg" alt="resudy-ai"/></a></td>
-</tr>
-<tr>
-<td><a href="https://github.com/Alaashamel/coderag"><img src="./assets/card-coderag.svg" alt="coderag"/></a></td>
-<td><a href="https://github.com/Alaashamel/pixel-kingdom-survival-rpg"><img src="./assets/card-pixel.svg" alt="pixel-kingdom-survival-rpg"/></a></td>
-</tr>
-</table>
+<p align="center">
+<a href="https://github.com/Alaashamel/AI-doc-Chatbot"><img src="./assets/card-ai-doc-chatbot.svg" alt="AI-doc-Chatbot" width="440"/></a>
+<a href="https://github.com/Alaashamel/ai-engineering-orchestrator"><img src="./assets/card-orchestrator.svg" alt="ai-engineering-orchestrator" width="440"/></a>
+<a href="https://github.com/Alaashamel/AI-Web-Operating-System"><img src="./assets/card-web-os.svg" alt="AI-Web-Operating-System" width="440"/></a>
+<a href="https://github.com/Alaashamel/resudy-ai"><img src="./assets/card-resudy.svg" alt="resudy-ai" width="440"/></a>
+<a href="https://github.com/Alaashamel/coderag"><img src="./assets/card-coderag.svg" alt="coderag" width="440"/></a>
+<a href="https://github.com/Alaashamel/pixel-kingdom-survival-rpg"><img src="./assets/card-pixel.svg" alt="pixel-kingdom-survival-rpg" width="440"/></a>
+</p>
 
 <div align="center">
 <br/>
