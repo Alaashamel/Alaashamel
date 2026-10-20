@@ -7,7 +7,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://alashamel.github.io/Alaashamel/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alaa%20Shamel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alaa-shamel-a0392b2a6)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alaashamel32@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Alaashamel&label=Profile%20Views&color=7c5cff&style=for-the-badge)](https://alashamel.github.io/Alaashamel/)
+[![Profile Views](https://hits.sh/github.com/Alaashamel.svg?style=for-the-badge&label=Profile%20Views&color=7c5cff&labelColor=1e2540)](https://alashamel.github.io/Alaashamel/)
 
 <br/>
 
