@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-alashamel.github.io-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://alashamel.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://alashamel.github.io/Alaashamel/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alaa%20Shamel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alaa-shamel-a0392b2a6)
 [![Email](https://img.shields.io/badge/Email-alaashamel32%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alaashamel32@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=Alaashamel&label=Profile%20Views&color=7c5cff&style=for-the-badge)
@@ -21,7 +21,7 @@
 
 Results-driven **Full-Stack Software Engineer** from Giza, Egypt. I design and ship products across the whole stack, with a strong focus on **AI & LLM applications**: retrieval-augmented generation, multi-agent orchestration, and production-minded delivery (Docker, CI/CD, automated tests).
 
-> 🚀 **See everything in motion → [alashamel.github.io](https://alashamel.github.io)**
+> 🚀 **See everything in motion → [alashamel.github.io/Alaashamel](https://alashamel.github.io/Alaashamel/)**
 
 ## 🛠️ Tech Stack
 
@@ -121,7 +121,7 @@ I'm open to full-stack and AI engineering opportunities and collaborations.
 
 [![Email](https://img.shields.io/badge/Email-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alaashamel32@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alaa-shamel-a0392b2a6)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://alashamel.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://alashamel.github.io/Alaashamel/)
 
 <sub>⚡ Thanks for stopping by, and stars are always appreciated ⭐</sub>
 
