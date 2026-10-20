@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="100%">
+<defs>
+<linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#00c2ff"><animate attributeName="stop-color" values="#00c2ff;#7c5cff;#ff4fd8;#00c2ff" dur="8s" repeatCount="indefinite"/></stop><stop offset="1" stop-color="#7c5cff"><animate attributeName="stop-color" values="#7c5cff;#ff4fd8;#00c2ff;#7c5cff" dur="8s" repeatCount="indefinite"/></stop></linearGradient>
+<linearGradient id="t" x1="0" x2="1"><stop offset="0" stop-color="#00c2ff"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#ff4fd8"/></linearGradient>
+<clipPath id="c"><rect width="1200" height="300" rx="22"/></clipPath>
+</defs>
+<g clip-path="url(#c)">
+<rect width="1200" height="300" fill="#070a14"/>
+<path fill="url(#g)" opacity=".35"><animate attributeName="d" dur="9s" repeatCount="indefinite" values="M0 210 Q300 130 600 210 T1200 210 V300 H0Z;M0 190 Q300 270 600 190 T1200 190 V300 H0Z;M0 210 Q300 130 600 210 T1200 210 V300 H0Z"/></path>
+<path fill="url(#g)" opacity=".2"><animate attributeName="d" dur="12s" repeatCount="indefinite" values="M0 230 Q300 290 600 230 T1200 230 V300 H0Z;M0 245 Q300 180 600 245 T1200 245 V300 H0Z;M0 230 Q300 290 600 230 T1200 230 V300 H0Z"/></path>
+<g fill="#00c2ff"><circle cx="120" cy="60" r="2"><animate attributeName="opacity" values="1;.1;1" dur="3s" repeatCount="indefinite"/></circle><circle cx="340" cy="40" r="1.6"><animate attributeName="opacity" values="1;.1;1" dur="4s" repeatCount="indefinite"/></circle><circle cx="860" cy="55" r="2"><animate attributeName="opacity" values="1;.1;1" dur="2.5s" repeatCount="indefinite"/></circle><circle cx="1060" cy="90" r="1.6"><animate attributeName="opacity" values="1;.1;1" dur="3.5s" repeatCount="indefinite"/></circle><circle cx="700" cy="30" r="1.4"><animate attributeName="opacity" values="1;.1;1" dur="5s" repeatCount="indefinite"/></circle></g>
+<text x="600" y="130" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="68" font-weight="800" fill="url(#t)" letter-spacing="-2">Alaa Shamel<animate attributeName="opacity" values="0;1" dur="1.2s" fill="freeze"/></text>
+<text x="600" y="182" text-anchor="middle" font-family="Consolas,monospace" font-size="24" fill="#8b94b3" letter-spacing="3">FULL-STACK  ·  AI ENGINEER  ·  PRODUCT BUILDER<animate attributeName="opacity" values="0;1" begin=".6s" dur="1.2s" fill="freeze"/></text>
+</g>
+<rect width="1200" height="300" rx="22" fill="none" stroke="url(#g)" stroke-width="2" opacity=".7"/>
+</svg>
