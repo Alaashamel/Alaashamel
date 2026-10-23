@@ -38,15 +38,6 @@ Full-stack across <b>Next.js</b>, <b>Node.js</b> and <b>Python</b>, shipped with
 <img src="./assets/projects-slider.svg" alt="Featured projects" width="100%"/>
 </p>
 
-<p align="center">
-<a href="https://github.com/Alaashamel/AI-doc-Chatbot">AI-doc-Chatbot</a> ·
-<a href="https://github.com/Alaashamel/ai-engineering-orchestrator">ai-engineering-orchestrator</a> ·
-<a href="https://github.com/Alaashamel/AI-Web-Operating-System">AI-Web-Operating-System</a> ·
-<a href="https://github.com/Alaashamel/resudy-ai">resudy-ai</a> ·
-<a href="https://github.com/Alaashamel/coderag">coderag</a> ·
-<a href="https://github.com/Alaashamel/pixel-kingdom-survival-rpg">pixel-kingdom-survival-rpg</a>
-</p>
-
 <div align="center">
 <br/>
 <img src="./assets/h-stats.svg" alt="By the numbers" width="70%"/>
