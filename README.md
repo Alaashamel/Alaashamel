@@ -22,7 +22,7 @@ and the APIs, infrastructure and tests that make them reliable.<br/>
 Full-stack across <b>Next.js</b>, <b>Node.js</b> and <b>Python</b>, shipped with <b>Docker</b>, <b>CI/CD</b> and automated testing.
 </p>
 
-<p align="center"><a href="https://alaashamel.github.io/"><b>✦ Explore the interactive portfolio →</b></a></p>
+<p align="center"><a href="https://alaashamel.github.io/"><b>Explore the interactive portfolio →</b></a></p>
 
 <div align="center">
 <br/>
@@ -35,12 +35,16 @@ Full-stack across <b>Next.js</b>, <b>Node.js</b> and <b>Python</b>, shipped with
 </div>
 
 <p align="center">
-<a href="https://github.com/Alaashamel/AI-doc-Chatbot"><img src="./assets/card-ai-doc-chatbot.svg" alt="AI-doc-Chatbot" width="440"/></a>
-<a href="https://github.com/Alaashamel/ai-engineering-orchestrator"><img src="./assets/card-orchestrator.svg" alt="ai-engineering-orchestrator" width="440"/></a>
-<a href="https://github.com/Alaashamel/AI-Web-Operating-System"><img src="./assets/card-web-os.svg" alt="AI-Web-Operating-System" width="440"/></a>
-<a href="https://github.com/Alaashamel/resudy-ai"><img src="./assets/card-resudy.svg" alt="resudy-ai" width="440"/></a>
-<a href="https://github.com/Alaashamel/coderag"><img src="./assets/card-coderag.svg" alt="coderag" width="440"/></a>
-<a href="https://github.com/Alaashamel/pixel-kingdom-survival-rpg"><img src="./assets/card-pixel.svg" alt="pixel-kingdom-survival-rpg" width="440"/></a>
+<img src="./assets/projects-slider.svg" alt="Featured projects" width="100%"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/Alaashamel/AI-doc-Chatbot">AI-doc-Chatbot</a> ·
+<a href="https://github.com/Alaashamel/ai-engineering-orchestrator">ai-engineering-orchestrator</a> ·
+<a href="https://github.com/Alaashamel/AI-Web-Operating-System">AI-Web-Operating-System</a> ·
+<a href="https://github.com/Alaashamel/resudy-ai">resudy-ai</a> ·
+<a href="https://github.com/Alaashamel/coderag">coderag</a> ·
+<a href="https://github.com/Alaashamel/pixel-kingdom-survival-rpg">pixel-kingdom-survival-rpg</a>
 </p>
 
 <div align="center">
@@ -53,7 +57,7 @@ Full-stack across <b>Next.js</b>, <b>Node.js</b> and <b>Python</b>, shipped with
 <br/><br/>
 <img src="./assets/langs.svg" alt="Languages" width="92%"/>
 <br/>
-<sub>📊 Auto-updated daily from the GitHub API</sub>
+<sub>Auto-updated daily from the GitHub API</sub>
 <br/>
 
 <br/>
@@ -61,6 +65,6 @@ Full-stack across <b>Next.js</b>, <b>Node.js</b> and <b>Python</b>, shipped with
 <br/><br/>
 <a href="mailto:alaashamel32@gmail.com"><img src="./assets/footer.svg" alt="Let's build something remarkable" width="100%"/></a>
 <br/>
-<sub>Thanks for stopping by · stars are always appreciated ⭐</sub>
+<sub>Thanks for stopping by</sub>
 
 </div>
