@@ -7,7 +7,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://alaashamel.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alaa%20Shamel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alaa-shamel-a0392b2a6)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alaashamel32@gmail.com)
-[![Profile Views](https://hits.sh/github.com/Alaashamel.svg?style=for-the-badge&label=Profile%20Views&color=7c5cff&labelColor=1e2540)](https://alaashamel.github.io/)
 
 <br/>
 
@@ -18,9 +17,9 @@
 <p align="center"><img src="./assets/code.svg" alt="alaa.config.ts" width="86%"/></p>
 
 <p align="center">
-Results-driven <b>Full-Stack Software Engineer</b> who ships AI-powered products end to end.<br/>
-I work across <b>MERN</b>, <b>Next.js</b> and <b>Python</b>, with a focus on <b>RAG pipelines</b>, <b>multi-agent systems</b><br/>
-and production-minded delivery: Docker, CI/CD and automated testing.
+I build <b>AI products that hold up in production</b>: RAG pipelines, multi-agent systems,<br/>
+and the APIs, infrastructure and tests that make them reliable.<br/>
+Full-stack across <b>Next.js</b>, <b>Node.js</b> and <b>Python</b>, shipped with <b>Docker</b>, <b>CI/CD</b> and automated testing.
 </p>
 
 <p align="center"><a href="https://alaashamel.github.io/"><b>✦ Explore the interactive portfolio →</b></a></p>
