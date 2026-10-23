@@ -35,7 +35,7 @@ Full-stack across <b>Next.js</b>, <b>Node.js</b> and <b>Python</b>, shipped with
 </div>
 
 <p align="center">
-<img src="./assets/projects-slider.svg" alt="Featured projects" width="100%"/>
+<a href="https://github.com/Alaashamel?tab=repositories"><img src="./assets/projects-slider.svg" alt="Featured projects" width="100%"/></a>
 </p>
 
 <div align="center">
